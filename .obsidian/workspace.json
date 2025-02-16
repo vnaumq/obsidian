@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "290a66c095d0d677",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b625d567b7e4e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bfc9519c8ecf72e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Study.canvas",
+                "viewState": {
+                  "x": 7344.986598937596,
+                  "y": 10854.433658593785,
+                  "zoom": -1.3821458299954728
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Study"
+            }
+          },
+          {
+            "id": "f574dee2fdaa10dd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Study.canvas",
+                "viewState": {
+                  "x": 9426.5,
+                  "y": 9313.5,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Study"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f0ccdb2bda91d97",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b8fff4dfd0a3fb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cca19a3b451d1a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4fe915ba1d2beffb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Обработка",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "64da1f4b267abf78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "right": {
+    "id": "022269da193245bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "acce289f29980a65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a355d2d554bf3da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "37f913ec6027143d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f7cb5379914369ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "647cf4c479fbd8e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Goals/WeekGoals/WeekGoals.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of WeekGoals"
+            }
+          },
+          {
+            "id": "42b90dde8a4102fa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5c588d2ae18b4e28",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "bc9b0b373f659467",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f574dee2fdaa10dd",
+  "lastOpenFiles": [
+    "DataEngineer/General Software Engineering skills/JWT.md",
+    "Study.canvas",
+    "DataEngineer/Networking/Concepts/Firewalls.md",
+    "DataEngineer/General Software Engineering skills/OAuth.md",
+    "Cache/Oauth2.png",
+    "DataEngineer/General Software Engineering skills/Caching.md",
+    "DataEngineer/unsorting/Middle tier DWH.md",
+    "DataEngineer/unsorting/Hadoop.md",
+    "DataEngineer/unsorting/DataEngineer.md",
+    "DataEngineer/unsorting/CRM.md",
+    "DataEngineer/unsorting/Ad Hoc.md",
+    "Untitled.canvas",
+    "DataEngineer/Networking/Networking.md",
+    "DataEngineer/General Software Engineering skills/REST.md",
+    "DataEngineer/General Software Engineering skills/gRPC.md",
+    "DataEngineer/General Software Engineering skills/GraphQL.md",
+    "DataEngineer/General Software Engineering skills/General Software Engineering skills.md",
+    "DataEngineer/General Software Engineering skills",
+    "DataEngineer/Networking/Concepts/VPN.md",
+    "Books/Fundamental of data engineering/Fundamental of data engineering.md",
+    "Books/Atomic Habits/Atomic Habits.md",
+    "Books/Atomic Habits",
+    "Books/Fundamental of data engineering",
+    "Books/Эссенциализм/Двойная стратегия.md",
+    "Books/Эссенциализм/Untitled",
+    "Books/Books.md",
+    "Books/Эссенциализм/Эссенциализм - Грег Маккеон.md",
+    "Books/Эссенциализм",
+    "DataEngineer/Networking/Concepts/Concepts.md",
+    "DataEngineer/Networking/Concepts",
+    "Fight/Fight.md",
+    "DataEngineer/Networking/Protocols/DNS.md",
+    "DataEngineer/Networking/Protocols",
+    "DataEngineer/Networking/Protocols/UDP.md",
+    "Cache/what_is_dns.png",
+    "DataEngineer/Networking/Protocols/TCP.md",
+    "Cache/tcp-vs-udp.svg",
+    "Cache/SSH_Client_Server.png.webp",
+    "DataEngineer/unsorting",
+    "Cache/http2.jpg.webp",
+    "HTTP",
+    "Cache/http-layers.svg",
+    "Cache/fetching-a-page.svg",
+    "Cache/roadmap.png",
+    "DataEngineer/Networking",
+    "Cache/telegram_bot2.png",
+    "Cache/telegram_bot1.png",
+    "Без названия 2.canvas",
+    "Без названия.canvas",
+    "Без названия 1.canvas"
+  ]
+}

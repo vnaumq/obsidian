@@ -1,0 +1,1 @@
+With this type of database, like IBM solidDB, data resides in the main memory rather than on disk, making data access faster than with conventional, disk-based databases.

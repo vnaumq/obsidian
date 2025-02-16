@@ -1,0 +1,1 @@
+_ROLAP_, or _relational OLAP,_ is multidimensional data analysis that operates directly on data on relational tables, without first reorganizing the data into a cube.

@@ -1,0 +1,1 @@
+MOLAP stands for **Multidimensional Online Analytical Processing**. It is a type of OLAP process which utilizes a multidimensional data model so that analysis of data can be done easily. Data in MOLAP is pre-computed, pre-summarized, and is stored in MOLAP.

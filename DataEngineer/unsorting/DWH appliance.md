@@ -1,0 +1,2 @@
+[[DataEngineer]]
+A data warehouse appliance is a preintegrated bundle of hardware and software—typically including [central processing units (CPUs)](https://www.ibm.com/think/topics/central-processing-unit), storage, operating system and data warehouse software—that a business can connect to its [network](https://www.ibm.com/topics/networking) and start using as is.

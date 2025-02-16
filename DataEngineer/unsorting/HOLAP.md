@@ -1,0 +1,1 @@
+_HOLAP_, or _hybrid OLAP_, attempts to create the optimal division of labor between relational and multidimensional databases within a single OLAP architecture. The relational tables contain larger quantities of data, and OLAP cubes are used for aggregations and speculative processing. HOLAP requires an OLAP server that supports both MOLAP and ROLAP.

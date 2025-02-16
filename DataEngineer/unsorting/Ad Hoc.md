@@ -1,0 +1,2 @@
+[[DataEngineer]]
+ad hoc analysis means **a specific analysis that's designed to address specific questions**. It's the ability to analyze your data to find a quick answer to a single, immediate question.
