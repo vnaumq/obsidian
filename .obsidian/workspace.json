@@ -4,45 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "3b625d567b7e4e41",
+        "id": "280f418939d3818c",
         "type": "tabs",
         "children": [
           {
-            "id": "5bfc9519c8ecf72e",
+            "id": "18c59fa40883255b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Study.canvas",
                 "viewState": {
-                  "x": 7344.986598937596,
-                  "y": 10854.433658593785,
-                  "zoom": -1.3821458299954728
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Study"
-            }
-          },
-          {
-            "id": "f574dee2fdaa10dd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Study.canvas",
-                "viewState": {
-                  "x": 9426.5,
-                  "y": 9313.5,
-                  "zoom": -4
+                  "x": 7742.202677572324,
+                  "y": 10734.657620836151,
+                  "zoom": -2.376847512722015
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Study"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,12 +197,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f574dee2fdaa10dd",
+  "active": "18c59fa40883255b",
   "lastOpenFiles": [
-    "DataEngineer/General Software Engineering skills/JWT.md",
-    "Study.canvas",
-    "DataEngineer/Networking/Concepts/Firewalls.md",
     "DataEngineer/General Software Engineering skills/OAuth.md",
+    "Study.canvas",
+    "DataEngineer/General Software Engineering skills/JWT.md",
+    "Cache/client-credentials-grant.png",
+    "Books/Atomic Habits/Summary/The Man Who Didn't Look Right.md",
+    "Books/Atomic Habits/Summary/How to Build Better Habits in 4 Simple Steps.md",
+    "Books/Atomic Habits/Summary/How Your Habits Shape Your Identity.md",
+    "Books/Atomic Habits/Summary/The Surprising Power of Atomic Habits.md",
+    "Books/Atomic Habits/Summary/Summary.md",
+    "Books/Atomic Habits/Summary",
+    "Books/Atomic Habits/Atomic Habits.md",
+    "DataEngineer/Networking/Concepts/Firewalls.md",
     "Cache/Oauth2.png",
     "DataEngineer/General Software Engineering skills/Caching.md",
     "DataEngineer/unsorting/Middle tier DWH.md",
@@ -237,7 +227,6 @@
     "DataEngineer/General Software Engineering skills",
     "DataEngineer/Networking/Concepts/VPN.md",
     "Books/Fundamental of data engineering/Fundamental of data engineering.md",
-    "Books/Atomic Habits/Atomic Habits.md",
     "Books/Atomic Habits",
     "Books/Fundamental of data engineering",
     "Books/Эссенциализм/Двойная стратегия.md",
@@ -245,14 +234,9 @@
     "Books/Books.md",
     "Books/Эссенциализм/Эссенциализм - Грег Маккеон.md",
     "Books/Эссенциализм",
-    "DataEngineer/Networking/Concepts/Concepts.md",
     "DataEngineer/Networking/Concepts",
-    "Fight/Fight.md",
-    "DataEngineer/Networking/Protocols/DNS.md",
     "DataEngineer/Networking/Protocols",
-    "DataEngineer/Networking/Protocols/UDP.md",
     "Cache/what_is_dns.png",
-    "DataEngineer/Networking/Protocols/TCP.md",
     "Cache/tcp-vs-udp.svg",
     "Cache/SSH_Client_Server.png.webp",
     "DataEngineer/unsorting",
@@ -261,9 +245,7 @@
     "Cache/http-layers.svg",
     "Cache/fetching-a-page.svg",
     "Cache/roadmap.png",
-    "DataEngineer/Networking",
     "Cache/telegram_bot2.png",
-    "Cache/telegram_bot1.png",
     "Без названия 2.canvas",
     "Без названия.canvas",
     "Без названия 1.canvas"
