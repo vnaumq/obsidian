@@ -15,13 +15,25 @@
               "state": {
                 "file": "Study.canvas",
                 "viewState": {
-                  "x": 7742.202677572324,
-                  "y": 10734.657620836151,
-                  "zoom": -2.376847512722015
+                  "x": 4921.881121893497,
+                  "y": 10581.301044255173,
+                  "zoom": -1.470051782131195
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Study"
+            }
+          },
+          {
+            "id": "166a99a81b097eca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Cache/PySpark_Cheat_Sheet-_Spark_in_Python_owornh.png"
+              },
+              "icon": "lucide-image",
+              "title": "PySpark_Cheat_Sheet-_Spark_in_Python_owornh"
             }
           }
         ]
@@ -199,19 +211,30 @@
   },
   "active": "18c59fa40883255b",
   "lastOpenFiles": [
-    "DataEngineer/General Software Engineering skills/OAuth.md",
+    "Books/Atomic Habits/Summary/How Your Habits Shape Your Identity.md",
     "Study.canvas",
+    "Python/Python.md",
+    "DataEngineer/Networking/Networking.md",
+    "Python/Advanced/PySpark.md",
+    "Cache/PySpark_Cheat_Sheet-_Spark_in_Python_owornh.png",
+    "Cache/read_commited.png",
+    "Cache/roadmap.png",
+    "Cache/serializable.png",
+    "Cache/SSH_Client_Server.png.webp",
+    "Cache/tcp-vs-udp.svg",
+    "Cache/telegram_bot1.png",
+    "Cache/telegram_bot2.png",
+    "Cache/what_is_dns.png",
+    "Cache/Снимок экрана 2024-09-09 в 15.18.04.png",
+    "DataEngineer/General Software Engineering skills/OAuth.md",
     "DataEngineer/General Software Engineering skills/JWT.md",
-    "Cache/client-credentials-grant.png",
     "Books/Atomic Habits/Summary/The Man Who Didn't Look Right.md",
     "Books/Atomic Habits/Summary/How to Build Better Habits in 4 Simple Steps.md",
-    "Books/Atomic Habits/Summary/How Your Habits Shape Your Identity.md",
     "Books/Atomic Habits/Summary/The Surprising Power of Atomic Habits.md",
     "Books/Atomic Habits/Summary/Summary.md",
     "Books/Atomic Habits/Summary",
     "Books/Atomic Habits/Atomic Habits.md",
     "DataEngineer/Networking/Concepts/Firewalls.md",
-    "Cache/Oauth2.png",
     "DataEngineer/General Software Engineering skills/Caching.md",
     "DataEngineer/unsorting/Middle tier DWH.md",
     "DataEngineer/unsorting/Hadoop.md",
@@ -219,7 +242,6 @@
     "DataEngineer/unsorting/CRM.md",
     "DataEngineer/unsorting/Ad Hoc.md",
     "Untitled.canvas",
-    "DataEngineer/Networking/Networking.md",
     "DataEngineer/General Software Engineering skills/REST.md",
     "DataEngineer/General Software Engineering skills/gRPC.md",
     "DataEngineer/General Software Engineering skills/GraphQL.md",
@@ -231,21 +253,11 @@
     "Books/Fundamental of data engineering",
     "Books/Эссенциализм/Двойная стратегия.md",
     "Books/Эссенциализм/Untitled",
-    "Books/Books.md",
-    "Books/Эссенциализм/Эссенциализм - Грег Маккеон.md",
     "Books/Эссенциализм",
     "DataEngineer/Networking/Concepts",
     "DataEngineer/Networking/Protocols",
-    "Cache/what_is_dns.png",
-    "Cache/tcp-vs-udp.svg",
-    "Cache/SSH_Client_Server.png.webp",
     "DataEngineer/unsorting",
-    "Cache/http2.jpg.webp",
     "HTTP",
-    "Cache/http-layers.svg",
-    "Cache/fetching-a-page.svg",
-    "Cache/roadmap.png",
-    "Cache/telegram_bot2.png",
     "Без названия 2.canvas",
     "Без названия.canvas",
     "Без названия 1.canvas"
