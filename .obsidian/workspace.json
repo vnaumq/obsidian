@@ -4,36 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "280f418939d3818c",
+        "id": "9869830f9903936d",
         "type": "tabs",
         "children": [
           {
-            "id": "18c59fa40883255b",
+            "id": "25e8d0f7410ad27e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Study.canvas",
-                "viewState": {
-                  "x": 4921.881121893497,
-                  "y": 10581.301044255173,
-                  "zoom": -1.470051782131195
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Study"
-            }
-          },
-          {
-            "id": "166a99a81b097eca",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Cache/PySpark_Cheat_Sheet-_Spark_in_Python_owornh.png"
-              },
-              "icon": "lucide-image",
-              "title": "PySpark_Cheat_Sheet-_Spark_in_Python_owornh"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -86,7 +67,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -153,10 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/WeekGoals/WeekGoals.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WeekGoals"
+              "title": "Outline"
             }
           },
           {
@@ -165,8 +148,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -190,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,14 +192,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18c59fa40883255b",
+  "active": "25e8d0f7410ad27e",
   "lastOpenFiles": [
-    "Books/Atomic Habits/Summary/How Your Habits Shape Your Identity.md",
     "Study.canvas",
     "Python/Python.md",
+    "Cache/PySpark_Cheat_Sheet-_Spark_in_Python_owornh.png",
+    "Books/Atomic Habits/Summary/How Your Habits Shape Your Identity.md",
     "DataEngineer/Networking/Networking.md",
     "Python/Advanced/PySpark.md",
-    "Cache/PySpark_Cheat_Sheet-_Spark_in_Python_owornh.png",
     "Cache/read_commited.png",
     "Cache/roadmap.png",
     "Cache/serializable.png",
