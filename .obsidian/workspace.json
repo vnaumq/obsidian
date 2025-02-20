@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9869830f9903936d",
+        "id": "e3e26b85a7634791",
         "type": "tabs",
         "children": [
           {
-            "id": "25e8d0f7410ad27e",
+            "id": "6643b5324ca0d437",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Study.canvas",
+                "viewState": {
+                  "x": 6877.899586436498,
+                  "y": 11232.009006642782,
+                  "zoom": -1.214362154740925
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Study"
             }
           }
         ]
@@ -74,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 200
   },
   "right": {
     "id": "022269da193245bd",
@@ -192,9 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25e8d0f7410ad27e",
+  "active": "6643b5324ca0d437",
   "lastOpenFiles": [
+    "DataEngineer/General Software Engineering skills/REST.md",
     "Study.canvas",
+    "Cache/rest_api.svg",
+    "DataEngineer/General Software Engineering skills/JWT.md",
+    "Untitled.canvas",
+    "2025-02-19.md",
     "Python/Python.md",
     "Cache/PySpark_Cheat_Sheet-_Spark_in_Python_owornh.png",
     "Books/Atomic Habits/Summary/How Your Habits Shape Your Identity.md",
@@ -208,9 +220,7 @@
     "Cache/telegram_bot1.png",
     "Cache/telegram_bot2.png",
     "Cache/what_is_dns.png",
-    "Cache/Снимок экрана 2024-09-09 в 15.18.04.png",
     "DataEngineer/General Software Engineering skills/OAuth.md",
-    "DataEngineer/General Software Engineering skills/JWT.md",
     "Books/Atomic Habits/Summary/The Man Who Didn't Look Right.md",
     "Books/Atomic Habits/Summary/How to Build Better Habits in 4 Simple Steps.md",
     "Books/Atomic Habits/Summary/The Surprising Power of Atomic Habits.md",
@@ -224,8 +234,6 @@
     "DataEngineer/unsorting/DataEngineer.md",
     "DataEngineer/unsorting/CRM.md",
     "DataEngineer/unsorting/Ad Hoc.md",
-    "Untitled.canvas",
-    "DataEngineer/General Software Engineering skills/REST.md",
     "DataEngineer/General Software Engineering skills/gRPC.md",
     "DataEngineer/General Software Engineering skills/GraphQL.md",
     "DataEngineer/General Software Engineering skills/General Software Engineering skills.md",
@@ -234,7 +242,6 @@
     "Books/Fundamental of data engineering/Fundamental of data engineering.md",
     "Books/Atomic Habits",
     "Books/Fundamental of data engineering",
-    "Books/Эссенциализм/Двойная стратегия.md",
     "Books/Эссенциализм/Untitled",
     "Books/Эссенциализм",
     "DataEngineer/Networking/Concepts",
