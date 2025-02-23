@@ -9,3 +9,4 @@ REST, or REpresentational State Transfer, is an architectural style for providin
 
 In the REST architectural style, the implementation of the client and the implementation of the server can be done independently without each knowing about the other. This means that the code on the client side can be changed at any time without affecting the operation of the server, and the code on the server side can be changed without affecting the operation of the client.
 
+![[rest api.png]]
