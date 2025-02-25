@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74dea6501317fae1",
+        "id": "471ab1f044b9a632",
         "type": "tabs",
         "children": [
           {
-            "id": "631c8505c2d8f938",
+            "id": "8720d9869a94ec76",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,17 +168,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +191,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "631c8505c2d8f938",
+  "active": "9cca19a3b451d1a1",
   "lastOpenFiles": [
+    "Templates/Planner Template.md",
+    "Templates/Reference Template.md",
+    "Templates/Default Template.md",
+    "Templates/Daily Template.md",
+    "Templates/Course Template.md",
+    "Templates/Book Template.md",
+    "SQL/Document store.md",
+    "SQL/Graph store.md",
+    "SQL/Фантомное чтение.md",
+    "SQL/Неповторяемое чтение.md",
+    "SQL/Wide-column store.md",
+    "SQL/Normalization/1NF.md",
+    "SQL/Index.md",
+    "SQL/Normalization/Denormalizaton.md",
+    "Fight/Fight.md",
+    "SQL/Untitled.md",
+    "SQL/Normalization",
+    "Goals/Goals.md",
     "Python/Web",
     "DataEngineer/unsorting/DataEngineer.md",
     "Python/Python.md",
@@ -208,40 +225,22 @@
     "DataEngineer/Networking/Networking.md",
     "DataEngineer/Networking/Practice/Bridge Adapter.md",
     "DataEngineer/Networking/Practice/Port Forwarding.md",
-    "DataEngineer/Networking/Practice/NAT.md",
-    "DataEngineer/Networking/Practice/RDP.md",
-    "DataEngineer/Networking/Practice/Practice.md",
     "DataEngineer/Networking/Practice",
-    "DataEngineer/General Software Engineering skills/REST.md",
     "Cache/rest api.png",
     "Cache/rest_api.svg",
-    "DataEngineer/General Software Engineering skills/JWT.md",
     "Untitled.canvas",
-    "2025-02-19.md",
     "Cache/PySpark_Cheat_Sheet-_Spark_in_Python_owornh.png",
-    "Books/Atomic Habits/Summary/How Your Habits Shape Your Identity.md",
-    "Python/Advanced/PySpark.md",
     "Cache/read_commited.png",
     "Cache/roadmap.png",
     "Cache/serializable.png",
     "Cache/SSH_Client_Server.png.webp",
     "Cache/tcp-vs-udp.svg",
-    "DataEngineer/General Software Engineering skills/OAuth.md",
-    "Books/Atomic Habits/Summary/The Man Who Didn't Look Right.md",
-    "Books/Atomic Habits/Summary/How to Build Better Habits in 4 Simple Steps.md",
-    "Books/Atomic Habits/Summary/The Surprising Power of Atomic Habits.md",
-    "Books/Atomic Habits/Summary/Summary.md",
     "Books/Atomic Habits/Summary",
-    "Books/Atomic Habits/Atomic Habits.md",
-    "DataEngineer/Networking/Concepts/Firewalls.md",
-    "DataEngineer/General Software Engineering skills/Caching.md",
     "DataEngineer/General Software Engineering skills",
     "Books/Atomic Habits",
     "Books/Fundamental of data engineering",
     "Books/Эссенциализм/Untitled",
     "Books/Эссенциализм",
-    "DataEngineer/Networking/Concepts",
-    "DataEngineer/Networking/Protocols",
     "Без названия 2.canvas",
     "Без названия.canvas",
     "Без названия 1.canvas"
