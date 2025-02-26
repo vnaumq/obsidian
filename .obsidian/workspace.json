@@ -11,10 +11,17 @@
             "id": "8720d9869a94ec76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Study.canvas",
+                "viewState": {
+                  "x": 7477.5774115062495,
+                  "y": 11260.127775736839,
+                  "zoom": -0.8855784138043709
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Study"
             }
           }
         ]
@@ -191,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cca19a3b451d1a1",
+  "active": "8720d9869a94ec76",
   "lastOpenFiles": [
     "Templates/Planner Template.md",
     "Templates/Reference Template.md",
