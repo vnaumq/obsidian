@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "471ab1f044b9a632",
+        "id": "9d38ea5ae2e7346a",
         "type": "tabs",
         "children": [
           {
-            "id": "8720d9869a94ec76",
+            "id": "3deec1ee8e3c2162",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Study.canvas",
-                "viewState": {
-                  "x": 7477.5774115062495,
-                  "y": 11260.127775736839,
-                  "zoom": -0.8855784138043709
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Study"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -198,8 +191,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8720d9869a94ec76",
+  "active": "9cca19a3b451d1a1",
   "lastOpenFiles": [
+    "Study.canvas",
+    "AI/Python/Tensorflow/utils.md",
+    "AI/Python/Tensorflow/Dropout.md",
+    "AI/Python/Tensorflow/Dense.md",
+    "Cache/Dense.png",
+    "Dense.png",
+    "AI/Python/Tensorflow/Sequential.md",
+    "AI/Python/Tensorflow/Keras.md",
+    "AI/Python/Tensorflow/Tensorflow.md",
+    "AI/Python/OpenCV",
+    "AI/Python/OpenCV/OpenCV.md",
+    "AI/Python/Tensorflow",
+    "AI/Python/Python.md",
+    "AI/Python",
+    "AI",
+    "Python/Untitled",
+    "Fight/Calendar/2025-01-29.md",
+    "Fight/Calendar/2025-01-28.md",
+    "Fight/Calendar/2025-01-26.md",
+    "Fight/Calendar/2025-01-25.md",
+    "Fight/Calendar/2025-01-23.md",
+    "Fight/Calendar/2025-01-19.md",
+    "Fight/Fight.md",
+    "DataEngineer/General Software Engineering skills/REST.md",
+    "DataEngineer/General Software Engineering skills/gRPC.md",
     "Templates/Planner Template.md",
     "Templates/Reference Template.md",
     "Templates/Default Template.md",
@@ -208,30 +226,11 @@
     "Templates/Book Template.md",
     "SQL/Document store.md",
     "SQL/Graph store.md",
-    "SQL/Фантомное чтение.md",
-    "SQL/Неповторяемое чтение.md",
-    "SQL/Wide-column store.md",
-    "SQL/Normalization/1NF.md",
-    "SQL/Index.md",
-    "SQL/Normalization/Denormalizaton.md",
-    "Fight/Fight.md",
-    "SQL/Untitled.md",
     "SQL/Normalization",
-    "Goals/Goals.md",
     "Python/Web",
-    "DataEngineer/unsorting/DataEngineer.md",
-    "Python/Python.md",
-    "Study.canvas",
-    "DataEngineer/Testing/Testing.md",
     "DataEngineer/Testing",
-    "DataEngineer/General Software Engineering skills/gRPC.md",
     "Cache/grpc.jpeg",
-    "DataEngineer/General Software Engineering skills/GraphQL.md",
     "Cache/graphql.png",
-    "Python/OOP/Pricnciples/Inheritance.md",
-    "DataEngineer/Networking/Networking.md",
-    "DataEngineer/Networking/Practice/Bridge Adapter.md",
-    "DataEngineer/Networking/Practice/Port Forwarding.md",
     "DataEngineer/Networking/Practice",
     "Cache/rest api.png",
     "Cache/rest_api.svg",
@@ -240,14 +239,7 @@
     "Cache/read_commited.png",
     "Cache/roadmap.png",
     "Cache/serializable.png",
-    "Cache/SSH_Client_Server.png.webp",
-    "Cache/tcp-vs-udp.svg",
     "Books/Atomic Habits/Summary",
-    "DataEngineer/General Software Engineering skills",
-    "Books/Atomic Habits",
-    "Books/Fundamental of data engineering",
-    "Books/Эссенциализм/Untitled",
-    "Books/Эссенциализм",
     "Без названия 2.canvas",
     "Без названия.canvas",
     "Без названия 1.canvas"

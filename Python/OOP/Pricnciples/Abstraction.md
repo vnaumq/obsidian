@@ -48,6 +48,6 @@ print(employee.annualSalary())
 
 Ассоциированные объекты могут [циклически ссылаться](https://ru.wikipedia.org/w/index.php?title=%D0%A6%D0%B8%D0%BA%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0&action=edit&redlink=1) друг на друга, что ломает стандартный механизм сборки мусора. Избежать подобных проблем при ассоциации помогают слабые ссылки (модуль `weakref`).
 
-[[Python]]
+[[Python/Python]]
 [[OOP]]
 [[Principles]]

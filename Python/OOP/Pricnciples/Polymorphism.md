@@ -15,6 +15,6 @@ hare = Hare()
 hare.move() # Прыгает
 ```
 
-[[Python]]
+[[Python/Python]]
 [[OOP]]
 [[Principles]]

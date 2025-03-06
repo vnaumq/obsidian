@@ -22,6 +22,6 @@ obj.__param # AttributeError: 'SomeClass' object has no attribute '__param'
 obj._SomeClass__param # 42
 ```
 
-[[Python]]
+[[Python/Python]]
 [[OOP]]
 [[Principles]]

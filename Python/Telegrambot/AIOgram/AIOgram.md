@@ -1,5 +1,5 @@
 [[Telegrambot]]
-[[Python]]
+[[Python/Python]]
 
 GITHUB(https://github.com/aiogram/aiogram/tree/dev-2.x?tab=readme-ov-file)
 

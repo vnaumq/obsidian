@@ -1,4 +1,4 @@
-[[Python]]
+[[Python/Python]]
 
  Документация (https://core.telegram.org/bots/api)
 
