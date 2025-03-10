@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9d38ea5ae2e7346a",
+        "id": "5dbaa415ba4624b8",
         "type": "tabs",
         "children": [
           {
-            "id": "3deec1ee8e3c2162",
+            "id": "5db2b40e165957f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Study.canvas",
+                "viewState": {
+                  "x": 7557.783405986114,
+                  "y": 11292.928347932755,
+                  "zoom": -1.1537298679351813
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Study"
             }
           }
         ]
@@ -177,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,9 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cca19a3b451d1a1",
+  "active": "5db2b40e165957f2",
   "lastOpenFiles": [
+    "SQL/Postgresql/Postgresql.md",
+    "SQL/Postgresql/Read committed.md",
     "Study.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "DataEngineer/General Software Engineering skills/REST.md",
+    "DataEngineer/General Software Engineering skills/GraphQL.md",
+    "English/English.md",
     "AI/Python/Tensorflow/utils.md",
     "AI/Python/Tensorflow/Dropout.md",
     "AI/Python/Tensorflow/Dense.md",
@@ -216,16 +231,12 @@
     "Fight/Calendar/2025-01-23.md",
     "Fight/Calendar/2025-01-19.md",
     "Fight/Fight.md",
-    "DataEngineer/General Software Engineering skills/REST.md",
     "DataEngineer/General Software Engineering skills/gRPC.md",
     "Templates/Planner Template.md",
     "Templates/Reference Template.md",
     "Templates/Default Template.md",
     "Templates/Daily Template.md",
     "Templates/Course Template.md",
-    "Templates/Book Template.md",
-    "SQL/Document store.md",
-    "SQL/Graph store.md",
     "SQL/Normalization",
     "Python/Web",
     "DataEngineer/Testing",
@@ -234,7 +245,6 @@
     "DataEngineer/Networking/Practice",
     "Cache/rest api.png",
     "Cache/rest_api.svg",
-    "Untitled.canvas",
     "Cache/PySpark_Cheat_Sheet-_Spark_in_Python_owornh.png",
     "Cache/read_commited.png",
     "Cache/roadmap.png",
