@@ -1,4 +1,4 @@
-[[Summary]]
+[[Atomic Habits]]
 
 - Habits are the compound interest of self-improvement. Getting 1 percent better every day counts for a lot in the long-run
 - Habits are a double-edged sword. They can work for you or against you, which is why understanding the details is essential 

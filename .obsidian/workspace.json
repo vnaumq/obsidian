@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5dbaa415ba4624b8",
+        "id": "deb8ca55650577d2",
         "type": "tabs",
         "children": [
           {
-            "id": "5db2b40e165957f2",
+            "id": "a2ffb171c5ea8ebd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Study.canvas",
                 "viewState": {
-                  "x": 7557.783405986114,
-                  "y": 11292.928347932755,
-                  "zoom": -1.1537298679351813
+                  "x": 7762.096364727764,
+                  "y": 9953.663602512102,
+                  "zoom": -0.8731084091719947
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -199,11 +199,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5db2b40e165957f2",
+  "active": "a2ffb171c5ea8ebd",
   "lastOpenFiles": [
+    "SQL/SQL Indexes/Clustered Indexes.md",
+    "Cache/clustered_indexes.png",
+    "clustered_indexes.png",
+    "Study.canvas",
+    "SQL/SQL Indexes/Non-clustered Inedexes.md",
+    "SQL/SQL Indexes",
+    "Cache/pkeyToTable.png",
+    "Cache/Index_pointsTo_table2.png",
+    "SQL/SQL Indexes/SQL Indexes.md",
+    "Books/Atomic Habits/Summary/The Surprising Power of Atomic Habits.md",
+    "Books/Atomic Habits/Summary/The Secret to Self-Control.md",
+    "Books/Atomic Habits/Summary/The Man Who Didn't Look Right.md",
+    "Books/Atomic Habits/Summary/The Best Way to Start a New Habit.md",
+    "Books/Atomic Habits/Summary/Motivation is Overrated; Environment Often Matters More.md",
+    "Books/Atomic Habits/Summary/How Your Habits Shape Your Identity.md",
+    "Books/Atomic Habits/Summary/How to Build Better Habits in 4 Simple Steps.md",
+    "Books/Atomic Habits/Summary/Summary.md",
+    "Books/Atomic Habits/Atomic Habits.md",
     "SQL/Postgresql/Postgresql.md",
     "SQL/Postgresql/Read committed.md",
-    "Study.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "DataEngineer/General Software Engineering skills/REST.md",
@@ -224,19 +241,6 @@
     "AI/Python",
     "AI",
     "Python/Untitled",
-    "Fight/Calendar/2025-01-29.md",
-    "Fight/Calendar/2025-01-28.md",
-    "Fight/Calendar/2025-01-26.md",
-    "Fight/Calendar/2025-01-25.md",
-    "Fight/Calendar/2025-01-23.md",
-    "Fight/Calendar/2025-01-19.md",
-    "Fight/Fight.md",
-    "DataEngineer/General Software Engineering skills/gRPC.md",
-    "Templates/Planner Template.md",
-    "Templates/Reference Template.md",
-    "Templates/Default Template.md",
-    "Templates/Daily Template.md",
-    "Templates/Course Template.md",
     "SQL/Normalization",
     "Python/Web",
     "DataEngineer/Testing",
@@ -245,11 +249,6 @@
     "DataEngineer/Networking/Practice",
     "Cache/rest api.png",
     "Cache/rest_api.svg",
-    "Cache/PySpark_Cheat_Sheet-_Spark_in_Python_owornh.png",
-    "Cache/read_commited.png",
-    "Cache/roadmap.png",
-    "Cache/serializable.png",
-    "Books/Atomic Habits/Summary",
     "Без названия 2.canvas",
     "Без названия.canvas",
     "Без названия 1.canvas"

@@ -1,4 +1,4 @@
-[[Summary]]
+[[Atomic Habits]]
 
 - There are three levels of change: outcome change, process change, and identity change
 - The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become

@@ -1,4 +1,4 @@
-[[Summary]]
+[[Atomic Habits]]
 
 - With enough practice, your brain will pick up on the cues that predict certain outcomes without consciously thinking about it 
 - Once our habits become automatic, we strop paying attention to what we are doing 

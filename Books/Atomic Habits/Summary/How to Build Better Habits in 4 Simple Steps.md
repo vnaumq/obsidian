@@ -1,4 +1,4 @@
-[[Summary]]
+[[Atomic Habits]]
 
 - A habit is a behavior that has been repeated enough times to become automatic
 - The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible 
