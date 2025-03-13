@@ -1,3 +1,4 @@
+[[DataEngineer]]
 ### What is a Cloud Database?
 
 A cloud database is a database that runs on a cloud computing platform, managed either by a cloud provider (like AWS, Google Cloud, or Azure) or as a self-managed instance in the cloud. Unlike traditional on-premises databases, cloud databases leverage the scalability, flexibility, and accessibility of the cloud. They can be relational (e.g., MySQL, PostgreSQL, SQL Server) or non-relational (e.g., MongoDB, Cassandra, DynamoDB), depending on your use case.

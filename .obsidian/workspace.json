@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "aac2c6f0ea9eb3a6",
+        "id": "228a36ce374a0e4d",
         "type": "tabs",
         "children": [
           {
-            "id": "df742d75ab8ea163",
+            "id": "8b73c9ca44befe90",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Study.canvas",
                 "viewState": {
-                  "x": 6186.692221817725,
-                  "y": 10041.160887929218,
-                  "zoom": -2.7916374482816018
+                  "x": 4810.224480756214,
+                  "y": 9724.449482022203,
+                  "zoom": -3.8074248059695512
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -199,16 +199,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df742d75ab8ea163",
+  "active": "8b73c9ca44befe90",
   "lastOpenFiles": [
-    "Fight/Fight.md",
-    "Study.canvas",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/MongoDB Atlas.md",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/DynamoDB.md",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/In-Memory/In-Memory.md",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/Data Warehouses.md",
+    "3_DataEngineer/Cloud/Cloud.md",
     "3_DataEngineer/DataEngineer.md",
+    "Study.canvas",
+    "9_Leetcode",
+    "Fight/Fight.md",
     "DataEngineer/Data Engineer.md",
     "3_DataEngineer/unsorting/DWH appliance.md",
     "3_DataEngineer/unsorting/Hadoop.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/MongoDB Atlas.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/DynamoDB.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Cosmos DB.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL",
     "3_DataEngineer/Cloud/Types of Cloud Databases/SQL/Google Cloud SQL.md",
@@ -216,16 +220,13 @@
     "3_DataEngineer/Cloud/Types of Cloud Databases/SQL/AWS RDS.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/SQL",
     "3_DataEngineer/Cloud/Types of Cloud Databases/In-Memory/Redis.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/Cloud.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/In-Memory/Memcached.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/In-Memory/In-Memory.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/BigQuery.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/In-Memory",
     "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse",
     "3_DataEngineer/Cloud/Types of Cloud Databases",
     "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/Snowflake.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/Redshift.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/Data Warehouses.md",
     "3_DataEngineer/Cloud",
     "2_SQL/SQL Indexes/Clustered Indexes.md",
     "99_Cache/clustered_indexes.png",
@@ -238,14 +239,12 @@
     "5_Books/Atomic Habits/Summary/The Surprising Power of Atomic Habits.md",
     "5_Books/Atomic Habits/Summary/The Secret to Self-Control.md",
     "5_Books/Atomic Habits/Summary/The Man Who Didn't Look Right.md",
-    "5_Books/Atomic Habits/Summary/The Best Way to Start a New Habit.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "99_Cache/Dense.png",
     "Dense.png",
     "4_AI/Python/OpenCV",
     "4_AI/Python/Tensorflow",
-    "4_AI/Python",
     "99_Cache/grpc.jpeg",
     "99_Cache/graphql.png",
     "99_Cache/rest api.png",
