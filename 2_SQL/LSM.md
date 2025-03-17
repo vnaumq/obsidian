@@ -1,0 +1,2 @@
+A log-structured merge-tree (LSM tree) is **a data structure that efficiently stores key-value pairs for retrieval in disk- or flash-based storage systems**. Log structured merge trees optimize both read and write operations using a combination of in-memory and disk-based structures.
+![[LSM.png]]![[LSM_1.png]]
