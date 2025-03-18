@@ -11,17 +11,14 @@
             "id": "0a3e5cb0a314dab3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": 4890.5,
-                  "y": 7334,
-                  "zoom": 0
-                }
+                "file": "8_English/Real Easy English/Talking about family.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "icon": "lucide-file",
+              "title": "Talking about family"
             }
           }
         ]
@@ -202,8 +199,11 @@
   },
   "active": "0a3e5cb0a314dab3",
   "lastOpenFiles": [
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Graph/Graph.md",
+    "8_English/Real Easy English/Real Easy English.md",
+    "8_English/Real Easy English/Talking about family.md",
     "0-STUDY.canvas",
+    "8_English/Real Easy English",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Graph/Graph.md",
     "2_SQL/LSM.md",
     "Excalidraw/Drawing 2025-03-17 22.23.39.excalidraw.md",
     "99_Cache/http2.jpg.webp",
@@ -233,7 +233,6 @@
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/MongoDB.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/Document Bases.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/Cosmos DB.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Columnar/Columnar.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/NewSQL",
@@ -243,7 +242,6 @@
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Columnar",
     "Untitled.canvas",
     "9_Leetcode",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL",
     "99_Cache/clustered_indexes.png",
     "clustered_indexes.png",
     "99_Cache/pkeyToTable.png",
