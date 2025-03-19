@@ -11,14 +11,17 @@
             "id": "0a3e5cb0a314dab3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "8_English/Real Easy English/Talking about family.md",
-                "mode": "source",
-                "source": false
+                "file": "0-STUDY.canvas",
+                "viewState": {
+                  "x": 5275.954909607419,
+                  "y": 7305.416900855322,
+                  "zoom": -1.504963006774586
+                }
               },
-              "icon": "lucide-file",
-              "title": "Talking about family"
+              "icon": "lucide-layout-dashboard",
+              "title": "0-STUDY"
             }
           }
         ]
@@ -199,18 +202,19 @@
   },
   "active": "0a3e5cb0a314dab3",
   "lastOpenFiles": [
-    "8_English/Real Easy English/Real Easy English.md",
-    "8_English/Real Easy English/Talking about family.md",
+    "1_Python/Advanced/PySpark.md",
     "0-STUDY.canvas",
+    "Excalidraw/Drawing 2025-03-17 22.23.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-17 22.23.31.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-17 22.22.40.excalidraw.md",
+    "99_Cache/Apache Spark.png",
+    "8_English/Real Easy English/Talking about family.md",
+    "8_English/Real Easy English/Real Easy English.md",
     "8_English/Real Easy English",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Graph/Graph.md",
     "2_SQL/LSM.md",
-    "Excalidraw/Drawing 2025-03-17 22.23.39.excalidraw.md",
     "99_Cache/http2.jpg.webp",
-    "Excalidraw/Drawing 2025-03-17 22.22.40.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-17 22.23.31.excalidraw.md",
     "Excalidraw",
-    "1_Python/Advanced/PySpark.md",
     "99_Cache/graphnosql.jpg",
     "99_Cache/LSM_1.png",
     "99_Cache/LSM.png",
@@ -232,7 +236,6 @@
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Key-Value/DynamoDB.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/MongoDB.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/Document Bases.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/Cosmos DB.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/NewSQL",
@@ -247,7 +250,6 @@
     "99_Cache/pkeyToTable.png",
     "99_Cache/Index_pointsTo_table2.png",
     "Untitled 1.canvas",
-    "99_Cache/Dense.png",
     "Без названия 2.canvas",
     "Без названия.canvas",
     "Без названия 1.canvas"

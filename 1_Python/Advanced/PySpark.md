@@ -1,58 +1,67 @@
-https://github.com/coder2j/pyspark-tutorial
-https://spark.apache.org/docs/latest/quick-start.html
-https://sparkbyexamples.com/pyspark-tutorial/
-https://www.youtube.com/watch?v=EB8lfdxpirM
-
 ![[PySpark_Cheat_Sheet-_Spark_in_Python_owornh.png]]
 
+PySpark is the Python API for Apache Spark. It enables you to perform real-time, large-scale data processing in a distributed environment using Python. It also provides a PySpark shell for interactively analyzing your data.
 
-### **Онлайн-курсы**
+PySpark combines Python’s learnability and ease of use with the power of Apache Spark to enable processing and analysis of data at any size for everyone familiar with Python.
 
-1. **Udemy:**
+PySpark supports all of Spark’s features such as Spark SQL, DataFrames, Structured Streaming, Machine Learning (MLlib) and Spark Core.
+
+![[Apache Spark.png]]
+
+**Spark SQL and DataFrames**
+
+Spark SQL is Apache Spark’s module for working with structured data. It allows you to seamlessly mix SQL queries with Spark programs. With PySpark DataFrames you can efficiently read, write, transform, and analyze data using Python and SQL. Whether you use Python or SQL, the same underlying execution engine is used so you will always leverage the full power of Spark.
+
+- [Quickstart: DataFrame](https://spark.apache.org/docs/latest/api/python/getting_started/quickstart_df.html)
     
-    - [Apache Spark with Python - PySpark](https://www.udemy.com/course/apache-spark-with-python-pyspark/) — популярный курс, который охватывает основы PySpark, работу с DataFrame, SQL и машинное обучение.
-        
-    - [PySpark Essentials for Data Scientists](https://www.udemy.com/course/pyspark-essentials-for-data-scientists-big-data-python/) — курс для тех, кто хочет использовать PySpark для анализа больших данных.
-        
-2. **Datacamp:**
+- [Live Notebook: DataFrame](https://mybinder.org/v2/gh/apache/spark/7c29c664cdc?filepath=python%2Fdocs%2Fsource%2Fgetting_started%2Fquickstart_df.ipynb)
     
-    - [Introduction to PySpark](https://www.datacamp.com/courses/introduction-to-pyspark) — интерактивный курс, который поможет вам начать работу с PySpark, включая работу с DataFrame и SQL.
-        
-3. **edX:**
+- [Spark SQL API Reference](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html)
+**Pandas API on Spark**
+
+Pandas API on Spark allows you to scale your pandas workload to any size by running it distributed across multiple nodes. If you are already familiar with pandas and want to leverage Spark for big data, pandas API on Spark makes you immediately productive and lets you migrate your applications without modifying the code. You can have a single codebase that works both with pandas (tests, smaller datasets) and with Spark (production, distributed datasets) and you can switch between the pandas API and the Pandas API on Spark easily and without overhead.
+
+Pandas API on Spark aims to make the transition from pandas to Spark easy but if you are new to Spark or deciding which API to use, we recommend using PySpark (see [Spark SQL and DataFrames](https://spark.apache.org/docs/latest/api/python/index.html#index-page-spark-sql-and-dataframes)).
+
+- [Quickstart: Pandas API on Spark](https://spark.apache.org/docs/latest/api/python/getting_started/quickstart_ps.html)
     
-    - [Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark) — курс от UC Berkeley, который охватывает Spark и его применение для анализа данных.
-        
-
----
-
-### **Бесплатные ресурсы**
-
-1. **Официальная документация PySpark:**
+- [Live Notebook: pandas API on Spark](https://mybinder.org/v2/gh/apache/spark/7c29c664cdc?filepath=python%2Fdocs%2Fsource%2Fgetting_started%2Fquickstart_ps.ipynb)
     
-    - [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/) — отличный источник для изучения PySpark, включая примеры и API.
-        
-2. **YouTube:**
-    
-    - Каналы, такие как [DataCamp](https://www.youtube.com/c/datacamp) и [edureka!](https://www.youtube.com/c/edurekaIN), предлагают бесплатные уроки по PySpark.
-        
-3. **GitHub:**
-    
-    - Ищите репозитории с примерами кода и проектами на PySpark, например, [awesome-pyspark](https://github.com/awesome-spark/awesome-pyspark).
-        
+- [Pandas API on Spark Reference](https://spark.apache.org/docs/latest/api/python/reference/pyspark.pandas/index.html)
 
----
+**Structured Streaming**
 
-### **Книги**
+Structured Streaming is a scalable and fault-tolerant stream processing engine built on the Spark SQL engine. You can express your streaming computation the same way you would express a batch computation on static data. The Spark SQL engine will take care of running it incrementally and continuously and updating the final result as streaming data continues to arrive.
 
-1. **"Learning PySpark" by Tomasz Drabas and Denny Lee** — книга для начинающих, которая охватывает основы PySpark и его применение.
+- [Structured Streaming Programming Guide](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html)
     
-2. **"PySpark Cookbook" by Denny Lee and Tomasz Drabas** — книга с практическими примерами и рецептами для работы с PySpark.
+- [Structured Streaming API Reference](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ss/index.html)
     
 
----
+**Machine Learning (MLlib)**
 
-### **Практика**
+Built on top of Spark, MLlib is a scalable machine learning library that provides a uniform set of high-level APIs that help users create and tune practical machine learning pipelines.
 
-- Используйте платформы, такие как **Databricks Community Edition** или **Google Colab**, чтобы практиковаться в PySpark.
+- [Machine Learning Library (MLlib) Programming Guide](https://spark.apache.org/docs/latest/ml-guide.html)
     
-- Решайте задачи на платформах, таких как **Kaggle**, где можно работать с большими наборами данных.
+- [Machine Learning (MLlib) API Reference](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ml.html)
+    
+
+**Spark Core and RDDs**
+
+Spark Core is the underlying general execution engine for the Spark platform that all other functionality is built on top of. It provides RDDs (Resilient Distributed Datasets) and in-memory computing capabilities.
+
+Note that the RDD API is a low-level API which can be difficult to use and you do not get the benefit of Spark’s automatic query optimization capabilities. We recommend using DataFrames (see [Spark SQL and DataFrames](https://spark.apache.org/docs/latest/api/python/index.html#index-page-spark-sql-and-dataframes) above) instead of RDDs as it allows you to express what you want more easily and lets Spark automatically construct the most efficient query for you.
+
+- [Spark Core API Reference](https://spark.apache.org/docs/latest/api/python/reference/pyspark.html)
+    
+
+**Spark Streaming (Legacy)**
+
+Spark Streaming is an extension of the core Spark API that enables scalable, high-throughput, fault-tolerant stream processing of live data streams.
+
+Note that Spark Streaming is the previous generation of Spark’s streaming engine. It is a legacy project and it is no longer being updated. There is a newer and easier to use streaming engine in Spark called [Structured Streaming](https://spark.apache.org/docs/latest/api/python/index.html#index-page-structured-streaming) which you should use for your streaming applications and pipelines.
+
+- [Spark Streaming Programming Guide (Legacy)](https://spark.apache.org/docs/latest/streaming-programming-guide.html)
+    
+- [Spark Streaming API Reference (Legacy)](https://spark.apache.org/docs/latest/api/python/reference/pyspark.streaming.html)
