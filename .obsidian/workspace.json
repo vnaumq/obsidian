@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0d8520ff67874f1",
+        "id": "07db3efa9aebf728",
         "type": "tabs",
         "children": [
           {
-            "id": "0a3e5cb0a314dab3",
+            "id": "40209ebc86411931",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": 5275.954909607419,
-                  "y": 7305.416900855322,
-                  "zoom": -1.504963006774586
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -56,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Обработка",
+                "query": "pyspark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,10 +193,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0a3e5cb0a314dab3",
+  "active": "40209ebc86411931",
   "lastOpenFiles": [
-    "1_Python/Advanced/PySpark.md",
+    "SparkConf.md",
+    "3_DataEngineer/PySpark/PySpark.md",
     "0-STUDY.canvas",
+    "3_DataEngineer/PySpark/Base/SparkContext.md",
+    "3_DataEngineer/PySpark/Base/RDD.md",
+    "3_DataEngineer/PySpark/Base/Accumulator.md",
+    "3_DataEngineer/PySpark/Base/Broadcast.md",
+    "3_DataEngineer/PySpark/Base",
+    "3_DataEngineer/PySpark/Untitled.md",
+    "3_DataEngineer/PySpark",
+    "99_Cache/sparkcontext.jpg",
     "Excalidraw/Drawing 2025-03-17 22.23.39.excalidraw.md",
     "Excalidraw/Drawing 2025-03-17 22.23.31.excalidraw.md",
     "Excalidraw/Drawing 2025-03-17 22.22.40.excalidraw.md",
@@ -230,25 +232,16 @@
     "6_Linux/Permission.md",
     "6_Linux/Linux.md",
     "7_Git/commit.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector/Vector.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series/Time-Series.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Key-Value/Key-Value.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Key-Value/DynamoDB.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/MongoDB.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/Document Bases.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/NewSQL",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Key-Value",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Graph",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Columnar",
     "Untitled.canvas",
-    "9_Leetcode",
     "99_Cache/clustered_indexes.png",
     "clustered_indexes.png",
     "99_Cache/pkeyToTable.png",
-    "99_Cache/Index_pointsTo_table2.png",
     "Untitled 1.canvas",
     "Без названия 2.canvas",
     "Без названия.canvas",
