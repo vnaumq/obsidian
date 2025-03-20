@@ -11,10 +11,17 @@
             "id": "40209ebc86411931",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "0-STUDY.canvas",
+                "viewState": {
+                  "x": 5602.550961699606,
+                  "y": 12407.675627314968,
+                  "zoom": -1.2580377735694264
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "0-STUDY"
             }
           }
         ]
@@ -74,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "022269da193245bd",
@@ -195,9 +203,13 @@
   },
   "active": "40209ebc86411931",
   "lastOpenFiles": [
+    "Serializers.md",
+    "0-STUDY.canvas",
+    "MLlib.md",
+    "StorageLevel.md",
+    "SparkFiles.md",
     "SparkConf.md",
     "3_DataEngineer/PySpark/PySpark.md",
-    "0-STUDY.canvas",
     "3_DataEngineer/PySpark/Base/SparkContext.md",
     "3_DataEngineer/PySpark/Base/RDD.md",
     "3_DataEngineer/PySpark/Base/Accumulator.md",
@@ -228,10 +240,6 @@
     "4_AI/Python/Tensorflow/Keras.md",
     "4_AI/Python/Tensorflow/Dropout.md",
     "4_AI/Python/Tensorflow/Dense.md",
-    "4_AI/Python/OpenCV/OpenCV.md",
-    "6_Linux/Permission.md",
-    "6_Linux/Linux.md",
-    "7_Git/commit.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/NewSQL",
