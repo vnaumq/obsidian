@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07db3efa9aebf728",
+        "id": "1901596b805f3549",
         "type": "tabs",
         "children": [
           {
-            "id": "40209ebc86411931",
+            "id": "efdcca74e53373be",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": 5602.550961699606,
-                  "y": 12407.675627314968,
-                  "zoom": -1.2580377735694264
-                }
+                "file": "8_English/Lower Intermediate course/Unit 1 Session 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "icon": "lucide-file",
+              "title": "Unit 1 Session 1"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "022269da193245bd",
@@ -201,10 +197,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "40209ebc86411931",
+  "active": "efdcca74e53373be",
   "lastOpenFiles": [
-    "Serializers.md",
+    "8_English/Lower Intermediate course/Lower Intermediate course.md",
+    "8_English/Lower Intermediate course/Unit 1 Session 1.md",
+    "8_English/Real Easy English/Talking about jobs.md",
+    "8_English/Lower Intermediate course",
+    "8_English/Real Easy English/Talking about holidays.md",
+    "8_English/Real Easy English/Real Easy English.md",
+    "8_English/Real Easy English/Talking about friends.md",
+    "8_English/Real Easy English/Talking about family.md",
     "0-STUDY.canvas",
+    "Serializers.md",
     "MLlib.md",
     "StorageLevel.md",
     "SparkFiles.md",
@@ -222,8 +226,6 @@
     "Excalidraw/Drawing 2025-03-17 22.23.31.excalidraw.md",
     "Excalidraw/Drawing 2025-03-17 22.22.40.excalidraw.md",
     "99_Cache/Apache Spark.png",
-    "8_English/Real Easy English/Talking about family.md",
-    "8_English/Real Easy English/Real Easy English.md",
     "8_English/Real Easy English",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Graph/Graph.md",
     "2_SQL/LSM.md",
@@ -236,16 +238,11 @@
     "2_SQL/DBMS.md",
     "2_SQL/B-Tree.md",
     "99_Cache/B-tree-diagram.jpg",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/NewSQL/NewSQL.md",
-    "4_AI/Python/Tensorflow/Keras.md",
-    "4_AI/Python/Tensorflow/Dropout.md",
-    "4_AI/Python/Tensorflow/Dense.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/NewSQL",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Key-Value",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Graph",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases",
     "Untitled.canvas",
     "99_Cache/clustered_indexes.png",
     "clustered_indexes.png",
