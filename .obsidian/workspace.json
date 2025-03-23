@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1901596b805f3549",
+        "id": "28ce3631d2f56282",
         "type": "tabs",
         "children": [
           {
-            "id": "efdcca74e53373be",
+            "id": "a454b7e9152f5069",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8_English/Lower Intermediate course/Unit 1 Session 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Unit 1 Session 2"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "022269da193245bd",
@@ -197,10 +194,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "efdcca74e53373be",
+  "active": "a454b7e9152f5069",
   "lastOpenFiles": [
-    "8_English/Lower Intermediate course/Unit 1 Session 1.md",
+    "0-STUDY.canvas",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Columnar/Columnar.md",
+    "2_SQL/RDBMS.md",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/Document Bases.md",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Key-Value/Key-Value.md",
+    "3_DataEngineer/PySpark/Base/Accumulator.md",
+    "3_DataEngineer/PySpark/Base/Broadcast.md",
+    "3_DataEngineer/PySpark/Base/MLlib.md",
+    "3_DataEngineer/PySpark/Base/RDD.md",
+    "3_DataEngineer/PySpark/Base/Serializers.md",
+    "3_DataEngineer/PySpark/Base/SparkConf.md",
+    "3_DataEngineer/PySpark/Base/SparkContext.md",
+    "3_DataEngineer/PySpark/Base/SparkFiles.md",
+    "3_DataEngineer/PySpark/Base/StorageLevel.md",
     "8_English/Lower Intermediate course/Unit 1 Session 2.md",
+    "8_English/Lower Intermediate course/Unit 1 Session 1.md",
     "8_English/Lower Intermediate course/Lower Intermediate course.md",
     "8_English/Real Easy English/Talking about jobs.md",
     "8_English/Lower Intermediate course",
@@ -208,35 +219,20 @@
     "8_English/Real Easy English/Real Easy English.md",
     "8_English/Real Easy English/Talking about friends.md",
     "8_English/Real Easy English/Talking about family.md",
-    "0-STUDY.canvas",
-    "Serializers.md",
-    "MLlib.md",
-    "StorageLevel.md",
-    "SparkFiles.md",
-    "SparkConf.md",
     "3_DataEngineer/PySpark/PySpark.md",
-    "3_DataEngineer/PySpark/Base/SparkContext.md",
-    "3_DataEngineer/PySpark/Base/RDD.md",
-    "3_DataEngineer/PySpark/Base/Accumulator.md",
-    "3_DataEngineer/PySpark/Base/Broadcast.md",
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark/Untitled.md",
     "3_DataEngineer/PySpark",
     "99_Cache/sparkcontext.jpg",
     "Excalidraw/Drawing 2025-03-17 22.23.39.excalidraw.md",
     "Excalidraw/Drawing 2025-03-17 22.23.31.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-17 22.22.40.excalidraw.md",
     "99_Cache/Apache Spark.png",
     "8_English/Real Easy English",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Graph/Graph.md",
-    "2_SQL/LSM.md",
     "99_Cache/http2.jpg.webp",
     "Excalidraw",
     "99_Cache/graphnosql.jpg",
     "99_Cache/LSM_1.png",
     "99_Cache/LSM.png",
-    "2_SQL/RDBMS.md",
-    "2_SQL/DBMS.md",
     "99_Cache/B-tree-diagram.jpg",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series",

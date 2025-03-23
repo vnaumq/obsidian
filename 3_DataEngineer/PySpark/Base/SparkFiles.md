@@ -1,3 +1,4 @@
+[[PySpark]]
 In Apache Spark, you can upload your files using **sc.addFile** (sc is your default SparkContext) and get the path on a worker using **SparkFiles.get**. Thus, SparkFiles resolve the paths to files added through **SparkContext.addFile()**.
 
 SparkFiles contain the following classmethods −

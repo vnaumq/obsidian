@@ -1,3 +1,4 @@
+[[PySpark]]
 Serialization is used for performance tuning on Apache Spark. All data that is sent over the network or written to the disk or persisted in the memory should be serialized. Serialization plays an important role in costly operations.
 
 PySpark supports custom serializers for performance tuning. The following two serializers are supported by PySpark −
