@@ -11,14 +11,17 @@
             "id": "a454b7e9152f5069",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "8_English/Lower Intermediate course/Unit 1 Session 3.md",
-                "mode": "source",
-                "source": false
+                "file": "0-STUDY.canvas",
+                "viewState": {
+                  "x": 1597.5156769829305,
+                  "y": 10634.493492757474,
+                  "zoom": -2.78796899954478
+                }
               },
-              "icon": "lucide-file",
-              "title": "Unit 1 Session 3"
+              "icon": "lucide-layout-dashboard",
+              "title": "0-STUDY"
             }
           }
         ]
@@ -199,8 +202,12 @@
   },
   "active": "a454b7e9152f5069",
   "lastOpenFiles": [
-    "8_English/Lower Intermediate course/Unit 1 Session 3.md",
+    "3_DataEngineer/Cloud/Cloud.md",
+    "3_DataEngineer/Untitled",
     "0-STUDY.canvas",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector/Vector.md",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series/Time-Series.md",
+    "8_English/Lower Intermediate course/Unit 1 Session 3.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Columnar/Columnar.md",
     "2_SQL/RDBMS.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/Document Bases.md",
@@ -223,13 +230,9 @@
     "8_English/Real Easy English/Real Easy English.md",
     "8_English/Real Easy English/Talking about friends.md",
     "8_English/Real Easy English/Talking about family.md",
-    "3_DataEngineer/PySpark/PySpark.md",
     "3_DataEngineer/PySpark/Base",
-    "3_DataEngineer/PySpark/Untitled.md",
     "3_DataEngineer/PySpark",
     "99_Cache/sparkcontext.jpg",
-    "Excalidraw/Drawing 2025-03-17 22.23.39.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-17 22.23.31.excalidraw.md",
     "99_Cache/Apache Spark.png",
     "8_English/Real Easy English",
     "99_Cache/http2.jpg.webp",
@@ -242,7 +245,6 @@
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/NewSQL",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Key-Value",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Graph",
     "Untitled.canvas",
     "99_Cache/clustered_indexes.png",
     "clustered_indexes.png",
