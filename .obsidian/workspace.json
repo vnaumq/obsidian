@@ -15,31 +15,16 @@
               "state": {
                 "file": "0-STUDY.canvas",
                 "viewState": {
-                  "x": 5146.91964810255,
-                  "y": 8544.641919636199,
-                  "zoom": -1.0743055935700732
+                  "x": 2698.72589186381,
+                  "y": 8263.685333067555,
+                  "zoom": -1.0352601571877804
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "0-STUDY"
             }
-          },
-          {
-            "id": "797bfc30db67d4e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit Testing"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,8 +200,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "797bfc30db67d4e2",
+  "active": "a454b7e9152f5069",
   "lastOpenFiles": [
+    "1_Python/packet manager/uv.md",
     "0-STUDY.canvas",
     "Unit Testing.md",
     "8_English/Lower Intermediate course/Unit 1 Session 4.md",
