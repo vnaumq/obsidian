@@ -15,16 +15,31 @@
               "state": {
                 "file": "0-STUDY.canvas",
                 "viewState": {
-                  "x": 1597.5156769829305,
-                  "y": 10634.493492757474,
-                  "zoom": -2.78796899954478
+                  "x": 5146.91964810255,
+                  "y": 8544.641919636199,
+                  "zoom": -1.0743055935700732
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "0-STUDY"
             }
+          },
+          {
+            "id": "797bfc30db67d4e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit Testing"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,14 +215,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a454b7e9152f5069",
+  "active": "797bfc30db67d4e2",
   "lastOpenFiles": [
+    "0-STUDY.canvas",
+    "Unit Testing.md",
+    "8_English/Lower Intermediate course/Unit 1 Session 4.md",
+    "8_English/Lower Intermediate course/Unit 1 Session 3.md",
     "3_DataEngineer/Cloud/Cloud.md",
     "3_DataEngineer/Untitled",
-    "0-STUDY.canvas",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector/Vector.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series/Time-Series.md",
-    "8_English/Lower Intermediate course/Unit 1 Session 3.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Columnar/Columnar.md",
     "2_SQL/RDBMS.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/Document Bases.md",
@@ -228,8 +245,6 @@
     "8_English/Lower Intermediate course",
     "8_English/Real Easy English/Talking about holidays.md",
     "8_English/Real Easy English/Real Easy English.md",
-    "8_English/Real Easy English/Talking about friends.md",
-    "8_English/Real Easy English/Talking about family.md",
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark",
     "99_Cache/sparkcontext.jpg",
