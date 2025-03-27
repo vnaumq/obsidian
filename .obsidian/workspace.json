@@ -15,9 +15,9 @@
               "state": {
                 "file": "0-STUDY.canvas",
                 "viewState": {
-                  "x": 2698.72589186381,
-                  "y": 8263.685333067555,
-                  "zoom": -1.0352601571877804
+                  "x": 5599.604417258762,
+                  "y": 8555.942203369146,
+                  "zoom": -0.655742404858272
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -202,9 +202,12 @@
   },
   "active": "a454b7e9152f5069",
   "lastOpenFiles": [
-    "1_Python/packet manager/uv.md",
+    "Integration Testing.md",
+    "99_Cache/Integration-test-approaches.gif",
+    "99_Cache/Integration-Testing.webp",
     "0-STUDY.canvas",
     "Unit Testing.md",
+    "1_Python/packet manager/uv.md",
     "8_English/Lower Intermediate course/Unit 1 Session 4.md",
     "8_English/Lower Intermediate course/Unit 1 Session 3.md",
     "3_DataEngineer/Cloud/Cloud.md",
@@ -229,8 +232,6 @@
     "8_English/Lower Intermediate course/Lower Intermediate course.md",
     "8_English/Real Easy English/Talking about jobs.md",
     "8_English/Lower Intermediate course",
-    "8_English/Real Easy English/Talking about holidays.md",
-    "8_English/Real Easy English/Real Easy English.md",
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark",
     "99_Cache/sparkcontext.jpg",
@@ -248,8 +249,6 @@
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Key-Value",
     "Untitled.canvas",
     "99_Cache/clustered_indexes.png",
-    "clustered_indexes.png",
-    "99_Cache/pkeyToTable.png",
     "Untitled 1.canvas",
     "Без названия 2.canvas",
     "Без названия.canvas",
