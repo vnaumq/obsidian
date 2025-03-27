@@ -11,17 +11,14 @@
             "id": "a454b7e9152f5069",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": 5599.604417258762,
-                  "y": 8555.942203369146,
-                  "zoom": -0.655742404858272
-                }
+                "file": "8_English/Lower Intermediate course/Unit 1 Session 5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "icon": "lucide-file",
+              "title": "Unit 1 Session 5"
             }
           }
         ]
@@ -202,10 +199,11 @@
   },
   "active": "a454b7e9152f5069",
   "lastOpenFiles": [
+    "0-STUDY.canvas",
+    "8_English/Lower Intermediate course/Unit 1 Session 5.md",
     "Integration Testing.md",
     "99_Cache/Integration-test-approaches.gif",
     "99_Cache/Integration-Testing.webp",
-    "0-STUDY.canvas",
     "Unit Testing.md",
     "1_Python/packet manager/uv.md",
     "8_English/Lower Intermediate course/Unit 1 Session 4.md",
@@ -230,7 +228,6 @@
     "8_English/Lower Intermediate course/Unit 1 Session 2.md",
     "8_English/Lower Intermediate course/Unit 1 Session 1.md",
     "8_English/Lower Intermediate course/Lower Intermediate course.md",
-    "8_English/Real Easy English/Talking about jobs.md",
     "8_English/Lower Intermediate course",
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark",
