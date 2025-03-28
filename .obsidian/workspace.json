@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "21b996cedf25e386",
+        "id": "1204ac76badf1dde",
         "type": "tabs",
         "children": [
           {
-            "id": "9b349ec7aee40820",
+            "id": "e929fbc9fde274ff",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": 2918.29464446977,
-                  "y": 7888.188763077652,
-                  "zoom": -2.505828397274016
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -200,14 +193,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9b349ec7aee40820",
+  "active": "9cca19a3b451d1a1",
   "lastOpenFiles": [
-    "A/AB Testing.md",
+    "8_English/Lower Intermediate course/Unit 2/Session 1.md",
+    "8_English/Lower Intermediate course/Lower Intermediate course.md",
+    "8_English/Lower Intermediate course/Unit 2/Unit 2.md",
+    "8_English/Lower Intermediate course/Unit 1/Unit 1 Session 1.md",
+    "8_English/Lower Intermediate course/Unit 2",
+    "8_English/Lower Intermediate course/Unit 1/Untitled",
+    "8_English/Lower Intermediate course/Untitled.md",
+    "8_English/Lower Intermediate course/Unit 1",
+    "0-STUDY.canvas",
+    "3_DataEngineer/Testing/AB Testing.md",
     "99_Cache/ab-testing-process-6-image.webp",
     "99_Cache/control-variation-graph-3-image.webp",
     "99_Cache/ab-testing-optimizely-2-image.webp",
     "99_Cache/ab-testing-image.webp",
-    "0-STUDY.canvas",
     "3_DataEngineer/Testing/Load Testing.md",
     "3_DataEngineer/Testing/Functional Testing.md",
     "3_DataEngineer/Testing/Smoke Testing.md",
@@ -215,12 +216,12 @@
     "3_DataEngineer/Testing/Integration Testing.md",
     "3_DataEngineer/Testing/Unit Testing.md",
     "3_DataEngineer/Testing/Testing.md",
-    "8_English/Lower Intermediate course/Unit 1 Session 5.md",
+    "8_English/Lower Intermediate course/Unit 1/Unit 1 Session 5.md",
     "99_Cache/Integration-test-approaches.gif",
     "99_Cache/Integration-Testing.webp",
     "1_Python/packet manager/uv.md",
-    "8_English/Lower Intermediate course/Unit 1 Session 4.md",
-    "8_English/Lower Intermediate course/Unit 1 Session 3.md",
+    "8_English/Lower Intermediate course/Unit 1/Unit 1 Session 4.md",
+    "8_English/Lower Intermediate course/Unit 1/Unit 1 Session 3.md",
     "3_DataEngineer/Cloud/Cloud.md",
     "3_DataEngineer/Untitled",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector/Vector.md",
@@ -232,10 +233,6 @@
     "3_DataEngineer/PySpark/Base/Accumulator.md",
     "3_DataEngineer/PySpark/Base/Broadcast.md",
     "3_DataEngineer/PySpark/Base/MLlib.md",
-    "3_DataEngineer/PySpark/Base/RDD.md",
-    "3_DataEngineer/PySpark/Base/Serializers.md",
-    "3_DataEngineer/PySpark/Base/SparkConf.md",
-    "3_DataEngineer/PySpark/Base/SparkContext.md",
     "8_English/Lower Intermediate course",
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark",
@@ -245,9 +242,6 @@
     "99_Cache/http2.jpg.webp",
     "Excalidraw",
     "99_Cache/graphnosql.jpg",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/NewSQL",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Без названия 2.canvas",
