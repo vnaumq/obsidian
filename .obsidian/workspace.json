@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1204ac76badf1dde",
+        "id": "1e0475ee0fa261e4",
         "type": "tabs",
         "children": [
           {
-            "id": "e929fbc9fde274ff",
+            "id": "4964c4e1cb996d4f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -193,8 +193,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9cca19a3b451d1a1",
+  "active": "4964c4e1cb996d4f",
   "lastOpenFiles": [
+    "0-STUDY.canvas",
+    "3_DataEngineer/Distributed System COncepts/PACELC.md",
+    "3_DataEngineer/Distributed System COncepts/Clock.md",
+    "3_DataEngineer/Distributed System COncepts/Distributed System Concepts.md",
+    "3_DataEngineer/Distributed System COncepts",
     "8_English/Lower Intermediate course/Unit 2/Session 1.md",
     "8_English/Lower Intermediate course/Lower Intermediate course.md",
     "8_English/Lower Intermediate course/Unit 2/Unit 2.md",
@@ -203,7 +208,6 @@
     "8_English/Lower Intermediate course/Unit 1/Untitled",
     "8_English/Lower Intermediate course/Untitled.md",
     "8_English/Lower Intermediate course/Unit 1",
-    "0-STUDY.canvas",
     "3_DataEngineer/Testing/AB Testing.md",
     "99_Cache/ab-testing-process-6-image.webp",
     "99_Cache/control-variation-graph-3-image.webp",
@@ -223,16 +227,11 @@
     "8_English/Lower Intermediate course/Unit 1/Unit 1 Session 4.md",
     "8_English/Lower Intermediate course/Unit 1/Unit 1 Session 3.md",
     "3_DataEngineer/Cloud/Cloud.md",
-    "3_DataEngineer/Untitled",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector/Vector.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series/Time-Series.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Columnar/Columnar.md",
     "2_SQL/RDBMS.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/Document Bases.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Key-Value/Key-Value.md",
-    "3_DataEngineer/PySpark/Base/Accumulator.md",
-    "3_DataEngineer/PySpark/Base/Broadcast.md",
-    "3_DataEngineer/PySpark/Base/MLlib.md",
     "8_English/Lower Intermediate course",
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark",
