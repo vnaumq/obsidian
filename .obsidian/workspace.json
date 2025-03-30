@@ -11,10 +11,17 @@
             "id": "1c538ae50eca0e70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "0-STUDY.canvas",
+                "viewState": {
+                  "x": 5821.373380451185,
+                  "y": 7210.021292548825,
+                  "zoom": -0.7358959253629047
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "0-STUDY"
             }
           }
         ]
@@ -195,8 +202,10 @@
   },
   "active": "1c538ae50eca0e70",
   "lastOpenFiles": [
-    "8_English/Lower Intermediate course/Unit 2/Session 2.md",
+    "Eventual consistency.md",
     "0-STUDY.canvas",
+    "3_DataEngineer/Distributed System COncepts/Shording.md",
+    "8_English/Lower Intermediate course/Unit 2/Session 2.md",
     "3_DataEngineer/Distributed System COncepts/PACELC.md",
     "3_DataEngineer/Distributed System COncepts/Clock.md",
     "3_DataEngineer/Distributed System COncepts/Distributed System Concepts.md",
@@ -230,9 +239,6 @@
     "3_DataEngineer/Cloud/Cloud.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector/Vector.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series/Time-Series.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Columnar/Columnar.md",
-    "2_SQL/RDBMS.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Document Bases/Document Bases.md",
     "8_English/Lower Intermediate course",
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark",
