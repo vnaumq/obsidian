@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e0475ee0fa261e4",
+        "id": "1be62e037aa97746",
         "type": "tabs",
         "children": [
           {
-            "id": "4964c4e1cb996d4f",
+            "id": "1c538ae50eca0e70",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -193,8 +193,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4964c4e1cb996d4f",
+  "active": "1c538ae50eca0e70",
   "lastOpenFiles": [
+    "8_English/Lower Intermediate course/Unit 2/Session 2.md",
     "0-STUDY.canvas",
     "3_DataEngineer/Distributed System COncepts/PACELC.md",
     "3_DataEngineer/Distributed System COncepts/Clock.md",
