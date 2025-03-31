@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1be62e037aa97746",
+        "id": "79cbd3566f56d3d1",
         "type": "tabs",
         "children": [
           {
-            "id": "1c538ae50eca0e70",
+            "id": "4fc0beb5cc95706e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": 5821.373380451185,
-                  "y": 7210.021292548825,
-                  "zoom": -0.7358959253629047
-                }
+                "file": "3_DataEngineer/Distributed System COncepts/Eventual consistency.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "icon": "lucide-file",
+              "title": "Eventual consistency"
             }
           }
         ]
@@ -200,20 +197,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1c538ae50eca0e70",
+  "active": "9cca19a3b451d1a1",
   "lastOpenFiles": [
-    "Eventual consistency.md",
-    "0-STUDY.canvas",
-    "3_DataEngineer/Distributed System COncepts/Shording.md",
+    "8_English/Lower Intermediate course/Unit 2/Session 4.md",
+    "8_English/Lower Intermediate course/Unit 2/Session 3.md",
+    "8_English/Lower Intermediate course/Unit 1/Session 5.md",
+    "8_English/Lower Intermediate course/Unit 1/Session 4.md",
+    "8_English/Lower Intermediate course/Unit 1/Session 3.md",
+    "8_English/Lower Intermediate course/Unit 1/Session 2.md",
+    "8_English/Lower Intermediate course/Unit 1/Session 1.md",
+    "8_English/Lower Intermediate course/Unit 1/Unit 1.md",
+    "8_English/Lower Intermediate course/Lower Intermediate course.md",
+    "8_English/Lower Intermediate course/Unit 2/Unit 2.md",
+    "8_English/Lower Intermediate course/Unit 2/Session 1.md",
     "8_English/Lower Intermediate course/Unit 2/Session 2.md",
+    "0-STUDY.canvas",
+    "3_DataEngineer/Distributed System COncepts/Eventual consistency.md",
+    "3_DataEngineer/Distributed System COncepts/Shording.md",
     "3_DataEngineer/Distributed System COncepts/PACELC.md",
     "3_DataEngineer/Distributed System COncepts/Clock.md",
     "3_DataEngineer/Distributed System COncepts/Distributed System Concepts.md",
     "3_DataEngineer/Distributed System COncepts",
-    "8_English/Lower Intermediate course/Unit 2/Session 1.md",
-    "8_English/Lower Intermediate course/Lower Intermediate course.md",
-    "8_English/Lower Intermediate course/Unit 2/Unit 2.md",
-    "8_English/Lower Intermediate course/Unit 1/Unit 1 Session 1.md",
     "8_English/Lower Intermediate course/Unit 2",
     "8_English/Lower Intermediate course/Unit 1/Untitled",
     "8_English/Lower Intermediate course/Untitled.md",
@@ -230,15 +234,9 @@
     "3_DataEngineer/Testing/Integration Testing.md",
     "3_DataEngineer/Testing/Unit Testing.md",
     "3_DataEngineer/Testing/Testing.md",
-    "8_English/Lower Intermediate course/Unit 1/Unit 1 Session 5.md",
     "99_Cache/Integration-test-approaches.gif",
     "99_Cache/Integration-Testing.webp",
     "1_Python/packet manager/uv.md",
-    "8_English/Lower Intermediate course/Unit 1/Unit 1 Session 4.md",
-    "8_English/Lower Intermediate course/Unit 1/Unit 1 Session 3.md",
-    "3_DataEngineer/Cloud/Cloud.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Vector/Vector.md",
-    "3_DataEngineer/Cloud/Types of Cloud Databases/NoSQL/Time-Series/Time-Series.md",
     "8_English/Lower Intermediate course",
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark",
