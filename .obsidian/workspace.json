@@ -11,17 +11,14 @@
             "id": "f687bd0fbe52e91b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": 5893.134663026904,
-                  "y": 7640.145342500905,
-                  "zoom": -0.2761369589881285
-                }
+                "file": "Indexing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "icon": "lucide-file",
+              "title": "Indexing"
             }
           }
         ]
@@ -202,8 +199,9 @@
   },
   "active": "f687bd0fbe52e91b",
   "lastOpenFiles": [
-    "Replication.md",
     "0-STUDY.canvas",
+    "Indexing.md",
+    "Replication.md",
     "CAP.md",
     "99_Cache/cap-theorem-diagram-e1647300692559.webp",
     "3_DataEngineer/Distributed System COncepts/Eventual consistency.md",
@@ -237,7 +235,6 @@
     "3_DataEngineer/Testing/Functional Testing.md",
     "3_DataEngineer/Testing/Smoke Testing.md",
     "A",
-    "3_DataEngineer/Testing/Integration Testing.md",
     "99_Cache/Integration-test-approaches.gif",
     "99_Cache/Integration-Testing.webp",
     "8_English/Lower Intermediate course",
