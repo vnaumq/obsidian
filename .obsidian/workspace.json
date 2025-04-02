@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afda15b34a26fbb2",
+        "id": "bf61cf34891d67f0",
         "type": "tabs",
         "children": [
           {
-            "id": "f687bd0fbe52e91b",
+            "id": "9864f51733f54015",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indexing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Indexing"
+              "title": "New tab"
             }
           }
         ]
@@ -197,12 +193,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f687bd0fbe52e91b",
+  "active": "9cca19a3b451d1a1",
   "lastOpenFiles": [
     "0-STUDY.canvas",
-    "Indexing.md",
-    "Replication.md",
-    "CAP.md",
+    "3_DataEngineer/Distributed System COncepts/Transaction.md",
+    "99_Cache/diagram-distributed-transaction.svg",
+    "3_DataEngineer/Distributed System COncepts/Batch processing.md",
+    "3_DataEngineer/Distributed System COncepts/Stream processing.md",
+    "3_DataEngineer/Distributed System COncepts/CAP.md",
+    "3_DataEngineer/Distributed System COncepts/Indexing.md",
+    "3_DataEngineer/Distributed System COncepts/Replication.md",
     "99_Cache/cap-theorem-diagram-e1647300692559.webp",
     "3_DataEngineer/Distributed System COncepts/Eventual consistency.md",
     "8_English/Lower Intermediate course/Unit 2/Session 4.md",
@@ -231,9 +231,6 @@
     "99_Cache/control-variation-graph-3-image.webp",
     "99_Cache/ab-testing-optimizely-2-image.webp",
     "99_Cache/ab-testing-image.webp",
-    "3_DataEngineer/Testing/Load Testing.md",
-    "3_DataEngineer/Testing/Functional Testing.md",
-    "3_DataEngineer/Testing/Smoke Testing.md",
     "A",
     "99_Cache/Integration-test-approaches.gif",
     "99_Cache/Integration-Testing.webp",
@@ -243,7 +240,6 @@
     "99_Cache/sparkcontext.jpg",
     "99_Cache/Apache Spark.png",
     "8_English/Real Easy English",
-    "99_Cache/http2.jpg.webp",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled 1.canvas",
