@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e31ea2779ee84e16",
+        "id": "2eaf71ad5c1df5f8",
         "type": "tabs",
         "children": [
           {
-            "id": "718dd81975c697d1",
+            "id": "ebe471c306f42bd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "8_English/Lower Intermediate course/Unit 3/Session 1.md",
-                "mode": "source",
-                "source": false
+                "file": "0-STUDY.canvas",
+                "viewState": {
+                  "x": 6943.88627356077,
+                  "y": 8852.860514797649,
+                  "zoom": -1.11513349175453
+                }
               },
-              "icon": "lucide-file",
-              "title": "Session 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "0-STUDY"
             }
           }
         ]
@@ -197,13 +200,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "718dd81975c697d1",
+  "active": "ebe471c306f42bd6",
   "lastOpenFiles": [
+    "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/Snowflake.md",
+    "0-STUDY.canvas",
+    "Data Modeling.md",
+    "Data Vault.md",
+    "Star Schema.md",
+    "3_DataEngineer/General Software Engineering skills/General Software Engineering skills.md",
     "8_English/Lower Intermediate course/Unit 3/Session 1.md",
     "8_English/Lower Intermediate course/Unit 3/Unit 3.md",
     "8_English/Lower Intermediate course/Unit 2/Session 5.md",
     "8_English/Lower Intermediate course/Unit 3",
-    "0-STUDY.canvas",
     "3_DataEngineer/Distributed System COncepts/Transaction.md",
     "99_Cache/diagram-distributed-transaction.svg",
     "3_DataEngineer/Distributed System COncepts/Batch processing.md",
@@ -223,12 +231,6 @@
     "8_English/Lower Intermediate course/Unit 1/Unit 1.md",
     "8_English/Lower Intermediate course/Lower Intermediate course.md",
     "8_English/Lower Intermediate course/Unit 2/Unit 2.md",
-    "8_English/Lower Intermediate course/Unit 2/Session 1.md",
-    "8_English/Lower Intermediate course/Unit 2/Session 2.md",
-    "3_DataEngineer/Distributed System COncepts/Shording.md",
-    "3_DataEngineer/Distributed System COncepts/PACELC.md",
-    "3_DataEngineer/Distributed System COncepts/Clock.md",
-    "3_DataEngineer/Distributed System COncepts/Distributed System Concepts.md",
     "3_DataEngineer/Distributed System COncepts",
     "8_English/Lower Intermediate course/Unit 2",
     "8_English/Lower Intermediate course/Unit 1/Untitled",
