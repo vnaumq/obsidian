@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2eaf71ad5c1df5f8",
+        "id": "ed95bef205fd51e8",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe471c306f42bd6",
+            "id": "02d0fdec6f2f54d3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": 6438.547050808812,
-                  "y": 8511.700270295854,
-                  "zoom": -1.11513349175453
-                }
+                "file": "8_English/Lower Intermediate course/Unit 3/Session 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "icon": "lucide-file",
+              "title": "Session 2"
             }
           }
         ]
@@ -200,20 +197,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ebe471c306f42bd6",
+  "active": "02d0fdec6f2f54d3",
   "lastOpenFiles": [
-    "Data Vault.md",
-    "99_Cache/data-vault-modeling-image.png",
+    "8_English/Lower Intermediate course/Unit 3/Session 1.md",
+    "8_English/Lower Intermediate course/Unit 3/Unit 3.md",
+    "8_English/Lower Intermediate course/Unit 3/Session 2.md",
     "0-STUDY.canvas",
-    "Star Schema.md",
+    "3_DataEngineer/Data Modeling/Data Vault.md",
+    "3_DataEngineer/Data Modeling/Data Modeling.md",
+    "3_DataEngineer/Data Modeling",
+    "99_Cache/data-vault-modeling-image.png",
+    "3_DataEngineer/Data Modeling/Star Schema.md",
     "3_DataEngineer/unsorting/OLAP.md",
     "3_DataEngineer/unsorting/MOLAP.md",
     "3_DataEngineer/unsorting/ROLAP.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/Snowflake.md",
-    "Data Modeling.md",
     "3_DataEngineer/General Software Engineering skills/General Software Engineering skills.md",
-    "8_English/Lower Intermediate course/Unit 3/Session 1.md",
-    "8_English/Lower Intermediate course/Unit 3/Unit 3.md",
     "8_English/Lower Intermediate course/Unit 2/Session 5.md",
     "8_English/Lower Intermediate course/Unit 3",
     "3_DataEngineer/Distributed System COncepts/Transaction.md",
@@ -247,7 +246,6 @@
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark",
     "99_Cache/sparkcontext.jpg",
-    "8_English/Real Easy English",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Без названия 2.canvas",
