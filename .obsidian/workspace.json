@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ed95bef205fd51e8",
+        "id": "b46be13e6f308b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "02d0fdec6f2f54d3",
+            "id": "6aee11fac6d6b985",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "8_English/Lower Intermediate course/Unit 3/Session 2.md",
-                "mode": "source",
-                "source": false
+                "file": "0-STUDY.canvas",
+                "viewState": {
+                  "x": -2895.1772779274625,
+                  "y": 8163.301358574878,
+                  "zoom": -0.536464961369833
+                }
               },
-              "icon": "lucide-file",
-              "title": "Session 2"
+              "icon": "lucide-layout-dashboard",
+              "title": "0-STUDY"
             }
           }
         ]
@@ -78,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 236.5
   },
   "right": {
     "id": "022269da193245bd",
@@ -197,12 +200,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "02d0fdec6f2f54d3",
+  "active": "6aee11fac6d6b985",
   "lastOpenFiles": [
+    "Supervised learning.md",
+    "99_Cache/evaluating-a-model.png",
+    "99_Cache/training-a-model-03.png",
+    "99_Cache/training-a-model-02.png",
+    "99_Cache/training-a-model-01.png",
+    "0-STUDY.canvas",
+    "Generative AI.md",
+    "Types of ML System.md",
+    "Reinforcement learning.md",
+    "Unsupervised learning.md",
+    "99_Cache/clustering-04.png",
+    "Clustering.md",
+    "Classification.md",
+    "Regression.md",
+    "Multiclass classification.md",
+    "Binary classification.md",
+    "Machine Learning.md",
+    "Types of ML Systems.md",
+    "Linear regression.md",
+    "ML models.md",
+    "Read-world ML.md",
+    "8_English/Lower Intermediate course/Unit 3/Session 2.md",
     "8_English/Lower Intermediate course/Unit 3/Session 1.md",
     "8_English/Lower Intermediate course/Unit 3/Unit 3.md",
-    "8_English/Lower Intermediate course/Unit 3/Session 2.md",
-    "0-STUDY.canvas",
     "3_DataEngineer/Data Modeling/Data Vault.md",
     "3_DataEngineer/Data Modeling/Data Modeling.md",
     "3_DataEngineer/Data Modeling",
@@ -212,40 +235,19 @@
     "3_DataEngineer/unsorting/MOLAP.md",
     "3_DataEngineer/unsorting/ROLAP.md",
     "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/Snowflake.md",
-    "3_DataEngineer/General Software Engineering skills/General Software Engineering skills.md",
-    "8_English/Lower Intermediate course/Unit 2/Session 5.md",
     "8_English/Lower Intermediate course/Unit 3",
-    "3_DataEngineer/Distributed System COncepts/Transaction.md",
     "99_Cache/diagram-distributed-transaction.svg",
-    "3_DataEngineer/Distributed System COncepts/Batch processing.md",
-    "3_DataEngineer/Distributed System COncepts/Stream processing.md",
-    "3_DataEngineer/Distributed System COncepts/CAP.md",
-    "3_DataEngineer/Distributed System COncepts/Indexing.md",
-    "3_DataEngineer/Distributed System COncepts/Replication.md",
     "99_Cache/cap-theorem-diagram-e1647300692559.webp",
-    "3_DataEngineer/Distributed System COncepts/Eventual consistency.md",
-    "8_English/Lower Intermediate course/Unit 2/Session 4.md",
-    "8_English/Lower Intermediate course/Unit 2/Session 3.md",
-    "8_English/Lower Intermediate course/Unit 1/Session 5.md",
-    "8_English/Lower Intermediate course/Unit 1/Session 4.md",
-    "8_English/Lower Intermediate course/Unit 1/Session 3.md",
-    "8_English/Lower Intermediate course/Unit 1/Session 2.md",
-    "8_English/Lower Intermediate course/Unit 1/Session 1.md",
     "3_DataEngineer/Distributed System COncepts",
     "8_English/Lower Intermediate course/Unit 2",
     "8_English/Lower Intermediate course/Unit 1/Untitled",
     "8_English/Lower Intermediate course/Unit 1",
     "99_Cache/ab-testing-process-6-image.webp",
     "99_Cache/control-variation-graph-3-image.webp",
-    "99_Cache/ab-testing-optimizely-2-image.webp",
-    "99_Cache/ab-testing-image.webp",
     "A",
-    "99_Cache/Integration-test-approaches.gif",
-    "99_Cache/Integration-Testing.webp",
     "8_English/Lower Intermediate course",
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark",
-    "99_Cache/sparkcontext.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Без названия 2.canvas",

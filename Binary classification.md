@@ -1,0 +1,1 @@
+Binary classification models output a value from a class that contains only two values, for example, a model that outputs either`rain` or `no rain`. 

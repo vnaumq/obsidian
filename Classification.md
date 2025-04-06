@@ -1,0 +1,3 @@
+[Classification models](https://developers.google.com/machine-learning/glossary#classification-model) predict the likelihood that something belongs to a category. Unlike regression models, whose output is a number, classification models output a value that states whether or not something belongs to a particular category. For example, classification models are used to predict if an email is spam or if a photo contains a cat.
+
+Classification models are divided into two groups: [[Binary classification]] and [[Multiclass classification]]. 

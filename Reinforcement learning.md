@@ -1,0 +1,3 @@
+[Reinforcement learning](https://developers.google.com/machine-learning/glossary#reinforcement-learning-rl) models make predictions by getting [rewards](https://developers.google.com/machine-learning/glossary#reward) or penalties based on actions performed within an environment. A reinforcement learning system generates a [policy](https://developers.google.com/machine-learning/glossary#policy) that defines the best strategy for getting the most rewards.
+
+Reinforcement learning is used to train robots to perform tasks, like walking around a room, and software programs like[AlphaGo](https://deepmind.com/research/case-studies/alphago-the-story-so-far) to play the game of Go
