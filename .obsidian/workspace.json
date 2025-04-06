@@ -15,8 +15,8 @@
               "state": {
                 "file": "0-STUDY.canvas",
                 "viewState": {
-                  "x": 6943.88627356077,
-                  "y": 8852.860514797649,
+                  "x": 6438.547050808812,
+                  "y": 8511.700270295854,
                   "zoom": -1.11513349175453
                 }
               },
@@ -202,11 +202,15 @@
   },
   "active": "ebe471c306f42bd6",
   "lastOpenFiles": [
-    "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/Snowflake.md",
-    "0-STUDY.canvas",
-    "Data Modeling.md",
     "Data Vault.md",
+    "99_Cache/data-vault-modeling-image.png",
+    "0-STUDY.canvas",
     "Star Schema.md",
+    "3_DataEngineer/unsorting/OLAP.md",
+    "3_DataEngineer/unsorting/MOLAP.md",
+    "3_DataEngineer/unsorting/ROLAP.md",
+    "3_DataEngineer/Cloud/Types of Cloud Databases/Data Warehouse/Snowflake.md",
+    "Data Modeling.md",
     "3_DataEngineer/General Software Engineering skills/General Software Engineering skills.md",
     "8_English/Lower Intermediate course/Unit 3/Session 1.md",
     "8_English/Lower Intermediate course/Unit 3/Unit 3.md",
@@ -228,9 +232,6 @@
     "8_English/Lower Intermediate course/Unit 1/Session 3.md",
     "8_English/Lower Intermediate course/Unit 1/Session 2.md",
     "8_English/Lower Intermediate course/Unit 1/Session 1.md",
-    "8_English/Lower Intermediate course/Unit 1/Unit 1.md",
-    "8_English/Lower Intermediate course/Lower Intermediate course.md",
-    "8_English/Lower Intermediate course/Unit 2/Unit 2.md",
     "3_DataEngineer/Distributed System COncepts",
     "8_English/Lower Intermediate course/Unit 2",
     "8_English/Lower Intermediate course/Unit 1/Untitled",
@@ -246,7 +247,6 @@
     "3_DataEngineer/PySpark/Base",
     "3_DataEngineer/PySpark",
     "99_Cache/sparkcontext.jpg",
-    "99_Cache/Apache Spark.png",
     "8_English/Real Easy English",
     "Untitled.canvas",
     "Untitled 1.canvas",
