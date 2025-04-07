@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b46be13e6f308b8e",
+        "id": "46b8f175ce83bc28",
         "type": "tabs",
         "children": [
           {
-            "id": "6aee11fac6d6b985",
+            "id": "147d123f8848e473",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": 7362.921552548847,
-                  "y": 7693.134432635864,
-                  "zoom": -0.5648928356170654
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -200,11 +193,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6aee11fac6d6b985",
+  "active": "147d123f8848e473",
   "lastOpenFiles": [
+    "8_English/Lower Intermediate course/Unit 3/Session 3.md",
+    "8_English/Lower Intermediate course/Unit 3/Session 2.md",
+    "0-STUDY.canvas",
     "3_DataEngineer/Data Management Architecture/Data Mart.md",
     "3_DataEngineer/Data Management Architecture/Data Management Architecture.md",
-    "0-STUDY.canvas",
     "10_ML/Binary classification.md",
     "3_DataEngineer/Data Management Architecture",
     "10_ML",
@@ -227,7 +222,6 @@
     "10_ML/Linear regression.md",
     "10_ML/ML models.md",
     "10_ML/Read-world ML.md",
-    "8_English/Lower Intermediate course/Unit 3/Session 2.md",
     "8_English/Lower Intermediate course/Unit 3/Session 1.md",
     "8_English/Lower Intermediate course/Unit 3/Unit 3.md",
     "3_DataEngineer/Data Modeling/Data Vault.md",
@@ -237,7 +231,6 @@
     "3_DataEngineer/Data Modeling/Star Schema.md",
     "3_DataEngineer/unsorting/OLAP.md",
     "3_DataEngineer/unsorting/MOLAP.md",
-    "3_DataEngineer/unsorting/ROLAP.md",
     "8_English/Lower Intermediate course/Unit 3",
     "99_Cache/diagram-distributed-transaction.svg",
     "99_Cache/cap-theorem-diagram-e1647300692559.webp",
