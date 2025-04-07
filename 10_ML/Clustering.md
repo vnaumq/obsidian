@@ -1,0 +1,1 @@
+Grouping related [**examples**](https://developers.google.com/machine-learning/glossary#example), particularly during [[Unsupervised learning]] Once all the examples are grouped, a human can optionally supply meaning to each cluster.
