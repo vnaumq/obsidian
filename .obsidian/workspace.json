@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "705bed9ee282955f",
+        "id": "2ba60138c87f0367",
         "type": "tabs",
         "children": [
           {
-            "id": "1839b28e12b14f74",
+            "id": "19f7202af8971044",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "8_English/Lower Intermediate course/Unit 3/Session 5.md",
-                "mode": "source",
-                "source": false
+                "file": "0-STUDY.canvas",
+                "viewState": {
+                  "x": 7661.797712091189,
+                  "y": 7089.311444973716,
+                  "zoom": -1.4963154820601126
+                }
               },
-              "icon": "lucide-file",
-              "title": "Session 5"
+              "icon": "lucide-layout-dashboard",
+              "title": "0-STUDY"
             }
           }
         ]
@@ -197,11 +200,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1839b28e12b14f74",
+  "active": "19f7202af8971044",
   "lastOpenFiles": [
-    "8_English/Lower Intermediate course/Unit 3/Session 4.md",
-    "8_English/Lower Intermediate course/Unit 3/Session 5.md",
+    "3_DataEngineer/Data Management Architecture/Relational Data Warehouse.md",
     "0-STUDY.canvas",
+    "8_English/Lower Intermediate course/Unit 3/Session 5.md",
+    "8_English/Lower Intermediate course/Unit 3/Session 4.md",
     "3_DataEngineer/Data Management Architecture/Data Management Architecture.md",
     "3_DataEngineer/Data Management Architecture/Data Mart.md",
     "3_DataEngineer/Data Management Architecture/Data Mesh.md",
@@ -231,8 +235,6 @@
     "10_ML/Linear regression.md",
     "10_ML/ML models.md",
     "10_ML/Read-world ML.md",
-    "8_English/Lower Intermediate course/Unit 3/Session 1.md",
-    "8_English/Lower Intermediate course/Unit 3/Unit 3.md",
     "3_DataEngineer/Data Modeling",
     "99_Cache/data-vault-modeling-image.png",
     "8_English/Lower Intermediate course/Unit 3",
