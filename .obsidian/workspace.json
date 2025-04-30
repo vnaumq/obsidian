@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "355c827704e07d0e",
+        "id": "491d127307ac8514",
         "type": "tabs",
         "children": [
           {
-            "id": "875e17f9e4d93477",
+            "id": "5e6098890e5332b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "8_English/Lower Intermediate course/Unit 4/Session 4.md",
-                "mode": "source",
-                "source": false
+                "file": "0-STUDY.canvas",
+                "viewState": {
+                  "x": -1057.3467044787694,
+                  "y": 7000.368613121182,
+                  "zoom": -1.2879183963934582
+                }
               },
-              "icon": "lucide-file",
-              "title": "Session 4"
+              "icon": "lucide-layout-dashboard",
+              "title": "0-STUDY"
             }
           }
         ]
@@ -78,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 200
   },
   "right": {
     "id": "022269da193245bd",
@@ -197,24 +200,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "875e17f9e4d93477",
+  "active": "5e6098890e5332b4",
   "lastOpenFiles": [
+    "10_ML/Gradient descent.md",
+    "99_Cache/convexity.png",
+    "99_Cache/low-loss.png",
+    "99_Cache/med-loss.png",
+    "99_Cache/large-loss.png",
+    "99_Cache/convergence.png",
+    "99_Cache/gradient-descent.png",
     "0-STUDY.canvas",
+    "10_ML/L1.md",
     "8_English/Lower Intermediate course/Unit 4/Session 4.md",
-    "MSE.md",
+    "10_ML/MSE.md",
     "99_Cache/MSE.png",
-    "MAE.md",
+    "10_ML/MAE.md",
     "99_Cache/MAE.png",
-    "L2.md",
-    "L1.md",
-    "Loss.md",
+    "10_ML/L2.md",
+    "10_ML/Loss.md",
     "99_Cache/types_of_loss.png",
     "99_Cache/loss-lines.png",
     "10_ML/Linear regression.md",
-    "99_Cache/equation-multiple-features.png",
-    "99_Cache/equation.png",
-    "99_Cache/car-data-points-with-model.png",
-    "99_Cache/car-data-points.png",
     "3_DataEngineer/Data Management Architecture/Modern Data Warehouse.md",
     "8_English/Lower Intermediate course/Unit 4/Session 3.md",
     "8_English/Lower Intermediate course/Unit 4/Session 2.md",
@@ -233,11 +239,8 @@
     "3_DataEngineer/Data Management Architecture/Data Fabric.md",
     "3_DataEngineer/Data Management Architecture/Data Lakehouse.md",
     "8_English/Lower Intermediate course/Unit 3/Session 3.md",
-    "8_English/Lower Intermediate course/Unit 3/Session 2.md",
     "3_DataEngineer/Data Management Architecture",
     "10_ML",
-    "99_Cache/evaluating-a-model.png",
-    "99_Cache/training-a-model-03.png",
     "3_DataEngineer/Data Modeling",
     "8_English/Lower Intermediate course/Unit 3",
     "3_DataEngineer/Distributed System COncepts",
