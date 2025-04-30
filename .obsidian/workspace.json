@@ -11,17 +11,14 @@
             "id": "875e17f9e4d93477",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": -1330.798717829322,
-                  "y": 6835.569071757745,
-                  "zoom": -0.6968939594427738
-                }
+                "file": "8_English/Lower Intermediate course/Unit 4/Session 4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "icon": "lucide-file",
+              "title": "Session 4"
             }
           }
         ]
@@ -202,9 +199,10 @@
   },
   "active": "875e17f9e4d93477",
   "lastOpenFiles": [
+    "0-STUDY.canvas",
+    "8_English/Lower Intermediate course/Unit 4/Session 4.md",
     "MSE.md",
     "99_Cache/MSE.png",
-    "0-STUDY.canvas",
     "MAE.md",
     "99_Cache/MAE.png",
     "L2.md",
@@ -236,7 +234,6 @@
     "3_DataEngineer/Data Management Architecture/Data Lakehouse.md",
     "8_English/Lower Intermediate course/Unit 3/Session 3.md",
     "8_English/Lower Intermediate course/Unit 3/Session 2.md",
-    "10_ML/Binary classification.md",
     "3_DataEngineer/Data Management Architecture",
     "10_ML",
     "99_Cache/evaluating-a-model.png",
