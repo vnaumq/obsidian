@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "491d127307ac8514",
+        "id": "75dedbcfd4a07092",
         "type": "tabs",
         "children": [
           {
-            "id": "5e6098890e5332b4",
+            "id": "c85770a05eda66c6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0-STUDY.canvas",
-                "viewState": {
-                  "x": -1057.3467044787694,
-                  "y": 7000.368613121182,
-                  "zoom": -1.2879183963934582
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "0-STUDY"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -197,11 +190,17 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5e6098890e5332b4",
+  "active": "9cca19a3b451d1a1",
   "lastOpenFiles": [
+    "Templates/dairy.md",
+    "11_Dairy/Dairy.md",
+    "Templates",
+    "0-STUDY.canvas",
+    "11_Dairy",
     "10_ML/Gradient descent.md",
     "99_Cache/convexity.png",
     "99_Cache/low-loss.png",
@@ -209,7 +208,6 @@
     "99_Cache/large-loss.png",
     "99_Cache/convergence.png",
     "99_Cache/gradient-descent.png",
-    "0-STUDY.canvas",
     "10_ML/L1.md",
     "8_English/Lower Intermediate course/Unit 4/Session 4.md",
     "10_ML/MSE.md",
@@ -238,7 +236,6 @@
     "3_DataEngineer/Data Management Architecture/Data Mesh.md",
     "3_DataEngineer/Data Management Architecture/Data Fabric.md",
     "3_DataEngineer/Data Management Architecture/Data Lakehouse.md",
-    "8_English/Lower Intermediate course/Unit 3/Session 3.md",
     "3_DataEngineer/Data Management Architecture",
     "10_ML",
     "3_DataEngineer/Data Modeling",
@@ -246,8 +243,6 @@
     "3_DataEngineer/Distributed System COncepts",
     "8_English/Lower Intermediate course/Unit 2",
     "8_English/Lower Intermediate course/Unit 1/Untitled",
-    "8_English/Lower Intermediate course/Unit 1",
-    "A",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Без названия 2.canvas",
